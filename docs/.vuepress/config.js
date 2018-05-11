@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/glazypress/',
   locales: {
     '/': {
       lang: 'en-US',
@@ -54,49 +55,3 @@ module.exports = {
     ]
   }
 }
-
-/*
-
-sidebar: {
-  '/about/': [
-    '',
-    'releases',
-    'health-warning',
-    'privacy',
-    'terms-of-service'
-  ],
-    // fallback
-    '/': [
-    '',
-    'support'
-  ]
-}
-
-*/
-
-/*
- sidebar: [
- {
- title: 'About Glazy',
- collapsible: true,
- children: [
- '/about/',
- '/about/releases',
- '/about/health-warning',
- '/about/privacy',
- '/about/terms-of-service'
- ]
- },
- 'support',
- {
- title: 'Support Glazy',
- collapsible: false,
- link: 'support'
- },
-
- {
- title: 'How to Use Glazy',
- children: [ ]
-}
-]
- */
