@@ -66,14 +66,14 @@ nor the large amount of time required to write and maintain the software._
 
 ## Past Support
 
-### 2018
+#### 2018
 
 To date (May), received 20 donations for a total of **$608.29 USD** after Paypal fees.
 
-### 2017
+#### 2017
 
 Received 29 donations for a total of **$723.69 USD** after Paypal fees.
 
-### 2016
+#### 2016
 
 Received 25 donations for a total of **$787.86 USD** after Paypal fees.

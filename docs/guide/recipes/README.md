@@ -100,33 +100,174 @@ relatively safe in a durable fired glaze, but extremely toxic in raw
 form in the studio. It is up to the individual to understand the risks
 of each material and take necessary precautions.
 
+### GHS Hazard Chart
 
-#### Explosive
-![Explosive](./ghs/Explosive.png)
-  
-#### Flammable
-![Flammable](./ghs/Flammable.png)
+[A more detailed chart is avialable on Wikipedia here.](https://en.wikipedia.org/wiki/GHS_hazard_pictograms)
 
-#### Oxidizing
-![Oxidizing](./ghs/Oxidizing.png)
+<table>
+    <thead>
+    <tr>
+        <th>
+        Pictogram
+        </th>
+        <th>
+        Hazard Class
+        </th>
+        <th>
+        Usage
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>
+        <img src="./img/ghs/Explosive.png" alt="Explosive" height="72" />
+        </td>
+        <td>
+        Explosive
+        </td>
+        <td>
+        Unstable explosives
+        Explosives, divisions 1.1, 1.2, 1.3, 1.4, 1.5, 1.6
+        Self-reactive substances and mixtures, types A, B
+        Organic peroxides, types A, B
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/Flammable.png" alt="Flammable" height="72" />
+        </td>
+        <td>
+        Flammable
+        </td>
+        <td>
+        Flammable gases, category 1
+        Flammable aerosols, categories 1, 2
+        Flammable liquids, categories 1, 2, 3
+        Flammable solids, categories 1, 2
+        Self-reactive substances and mixtures, types B, C, D, E, F
+        Pyrophoric liquids, category 1
+        Pyrophoric solids, category 1
+        Self-heating substances and mixtures, categories 1, 2
+        Substances and mixtures, which in contact with water, emit flammable gases, categories 1, 2, 3
+        Organic peroxides, types B, C, D, E, F
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/Oxidizing.png" alt="Oxidizing" height="72" />
+        </td>
+        <td>
+        Oxidizing
+        </td>
+        <td>
+        Oxidizing gases, category 1
+        Oxidizing liquids, categories 1, 2, 3
+        Oxidizing solids, categories 1, 2, 3
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/CompressedGas.png" alt="Compressed Gas" height="72" />
+        </td>
+        <td>
+        Compressed Gas
+        </td>
+        <td>
+        Compressed gases
+        Liquefied gases
+        Refrigerated liquefied gases
+        Dissolved gases
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/Corrosive.png" alt="Corrosive" height="72" />
+        </td>
+        <td>
+        Corrosive
+        </td>
+        <td>
+        Corrosive to metals, category 1
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/Toxic.png" alt="Toxic" height="72" />
+        </td>
+        <td>
+        Toxic
+        </td>
+        <td>
+        Acute toxicity (oral, dermal, inhalation), categories 1, 2, 3
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/Harmful.png" alt="Harmful" height="72" />
+        </td>
+        <td>
+        Harmful
+        </td>
+        <td>
+        Acute toxicity (oral, dermal, inhalation), category 4
+        Skin irritation, categories 2, 3
+        Eye irritation, category 2A
+        Skin sensitization, category 1
+        Specific target organ toxicity following single exposure, category 3
+        Respiratory tract irritation
+        Narcotic effects
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/HealthHazard.png" alt="Health Hazard" height="72" />
+        </td>
+        <td>
+        Health Hazard
+        </td>
+        <td>
+        Respiratory sensitization, category 1
+        Germ cell mutagenicity, categories 1A, 1B, 2
+        Carcinogenicity, categories 1A, 1B, 2
+        Reproductive toxicity, categories 1A, 1B, 2
+        Specific target organ toxicity following single exposure, categories 1, 2
+        Specific target organ toxicity following repeated exposure, categories 1, 2
+        Aspiration hazard, categories 1, 2
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/Corrosive.png" alt="Corrosive" height="72" />
+        </td>
+        <td>
+        Corrosive
+        </td>
+        <td>
+        Explosives, divisions 1.5, 1.6
+        Flammable gases, category 2
+        Self-reactive substances and mixtures, type G (see HAZMAT Class 4 Flammable solids)
+        Organic peroxides, type G
+        Skin corrosion, categories 1A, 1B, 1C
+        Serious eye damage, category 1
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="./img/ghs/EnvironmentalHazard.png" alt="Environmental Hazard" height="72" />
+        </td>
+        <td>
+        Environmental Hazard
+        </td>
+        <td>
+        Acute hazards to the aquatic environment, category 1
+        Chronic hazards to the aquatic environment, categories 1, 2
+        </td>
+    </tr>
+    </tbody>
+</table>
 
-#### Compressed Gas
-![Compressed Gas](./ghs/CompressedGas.png)
 
-#### Corrosive
-![Corrosive](./ghs/Corrosive.png)
-
-#### Toxic
-![Toxic](./ghs/Toxic.png)
-
-#### Harmful
-![Harmful](./ghs/Harmful.png)
-
-#### Health Hazard
-![Health Hazard](./ghs/HealthHazard.png)
-
-#### Environmental Hazard
-![Environmental Hazard](./ghs/EnvironmentalHazard.png)
 
 
 More information about the

@@ -65,6 +65,13 @@ module.exports = {
         ]
       },
       {
+        title: 'Testing Recipes',
+        collapsible: true,
+        children: [
+          '/testing/test-batches'
+        ]
+      },
+      {
         title: 'Tools',
         collapsible: true,
         children: [
