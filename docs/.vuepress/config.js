@@ -49,9 +49,17 @@ module.exports = {
         title: 'Guide',
         collapsible: true,
         children: [
-          '/guide/getting-started'
+          '/guide/getting-started',
+          '/guide/recipes'
         ]
       },
+      {
+        title: 'Tools',
+        collapsible: true,
+        children: [
+          '/tools/web-search'
+        ]
+      }
     ]
   }
 }
