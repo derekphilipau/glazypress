@@ -21,15 +21,16 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
+      { text: 'Donate', link: '/support#how-to-support-glazy' },
       { text: 'Glazy.org', link: 'https://glazy.org' },
     ],
+    sidebarDepth: 2,
     sidebar: [
       {
-        title: 'About Glazy',
+        title: 'About',
         collapsible: true,
         children: [
           '/about/',
-          '/about/support',
           '/about/releases',
           '/about/health-warning',
           '/about/privacy',
@@ -37,9 +38,65 @@ module.exports = {
         ]
       },
       {
-        title: 'How to Use Glazy',
-        children: [ /* ... */ ]
-      }
+        title: 'Support Glazy',
+        collapsible: true,
+        children: [
+          'support'
+        ]
+      },
+      {
+        title: 'Guide',
+        collapsible: true,
+        children: [
+          '/guide/getting-started'
+        ]
+      },
     ]
   }
 }
+
+/*
+
+sidebar: {
+  '/about/': [
+    '',
+    'releases',
+    'health-warning',
+    'privacy',
+    'terms-of-service'
+  ],
+    // fallback
+    '/': [
+    '',
+    'support'
+  ]
+}
+
+*/
+
+/*
+ sidebar: [
+ {
+ title: 'About Glazy',
+ collapsible: true,
+ children: [
+ '/about/',
+ '/about/releases',
+ '/about/health-warning',
+ '/about/privacy',
+ '/about/terms-of-service'
+ ]
+ },
+ 'support',
+ {
+ title: 'Support Glazy',
+ collapsible: false,
+ link: 'support'
+ },
+
+ {
+ title: 'How to Use Glazy',
+ children: [ ]
+}
+]
+ */

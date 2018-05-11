@@ -1,4 +1,4 @@
-# About Glazy
+# About
 
 The Glazy website was created by [Derek Au](http://www.derekau.net/).
 The Glazy database of ceramic recipes was originally seeded 
@@ -32,6 +32,8 @@ This documentation was made using [Vuepress](https://vuepress.vuejs.org/).
 Glazy is released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 [Glazy Github Repository](https://github.com/derekphilipau/glazy)
+
+[Glazy Documentation Repository](https://github.com/derekphilipau/glazypress)
 
 ## Contacting Glazy
 
