@@ -4,7 +4,7 @@ module.exports = {
     '/': {
       lang: 'en-US',
       title: 'Glazy Help',
-      description: 'Glazy Documentation'
+      description: 'The Free, Open-Source Ceramics Library'
     }
   },
   head: [
@@ -59,9 +59,11 @@ module.exports = {
         title: 'Glazy Guide',
         collapsible: true,
         children: [
-          '/guide/getting-started',
-          '/guide/recipes/',
-          '/guide/calculator/'
+          '/guide/',
+          '/guide/materials/',
+          '/guide/inventory/',
+          '/guide/calculator/',
+          '/guide/recipes/'
         ]
       },
       {

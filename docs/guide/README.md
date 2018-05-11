@@ -1,3 +1,2 @@
-# Guide page
-
-Guide
+# Getting Started
+  

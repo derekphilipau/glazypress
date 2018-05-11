@@ -1,40 +1,174 @@
-# Recipe Information
+# Recipes
 
-## Unity Molecular Formula (UMF)
+## What is a Recipe?
 
-Silica is a glass former. Alumina modifies a glass. Fluxes reduce
-melting temperature. The Unity Molecular Formula (UMF) systematically
-relates these chemistries to each other in a useful glaze chemistry
-shorthand UMF shows the ratio of glass formers to fluxes and can be used
-to predict glaze behavior.
+Recipes are combinations of one or more ceramic materials.
+Recipes specify the _proportion_ of one material to another.
+When mixed together, the recipe's materials form a new type
+of material- a clay suitable for throwing, a beautiful, 
+shiny glaze, or a colorful underglaze.
 
-For more information about UMF and the importance of the flux ratio:
+The recipe below is a classic recipe called 
+**"Leach 4321"**.  **Leach 4321** is often used as an example 
+because its recipe is very simple and it works well:
 
-  * Linda Arbuckle's [Introduction to Glaze Calculation](http://lindaarbuckle.com/handouts/glaze-calc-intro.pdf)
-  * [How Glazes Melt](http://mattanddavesclays.com/Science/Finkelnburg-NCECA%202012-PDF.pdf) by Dave Finkelnburg
-  * Digitalfire's [Understanding Glaze Calculation](https://digitalfire.com/4sight/education/understanding_glaze_calculation_an_aid_to_potters_126.html)
+#### Leach 4321 
 
-## Stull Chart
+![Leach 4321](./img/4321.png)
 
-### Glazy Stull Chart
+Because the recipe lists the _proportion_ of ingredients, 
+you can think of the amounts as _percentages_.  **Leach 4321** 
+is a recipe made up of: 
+  * **40%** Potash Feldspar, 
+  * **30%** Silica,
+  * **20%** Whiting, and 
+  * **10%** Kaolin,
+  
+For a combined total of **100%**.
 
-![Glazy Stull Chart](./img/STULL_Chart.png)
+It is not unusual to see recipes that do not total to 
+100.  Often, recipes in workshops are written down as **batches** 
+rather than 100% proportions.  For example, Leach 4321 can
+also be written as:
+  * **4000g** Potash Feldspar, 
+  * **3000g** Silica,
+  * **2000g** Whiting, and 
+  * **1000g** Kaolin,
+  
+For a combined total of **10,000g**.  
 
-This chart is a work in progress and will be revised.
+It's important to realize that
+_this is the same recipe as listed above_, just multiplied by 100
+and specifying a unit of measurement.
+Potters often write down recipes in **batch sizes** that they work
+with to make mixing glazes easier.
+A batch size of **10,000g** (like the one above) is often 
+used when making up a large bucket of glaze or clay.
 
-## Zooming in the chart
+_Note: All recipes are measured by weight, not volume!_
 
-Zooming in on the Stull Chart The chart can be zoomed in by clicking and
-dragging a rectangle with your mouse. On mobile devices, just pinch and
-zoom into the area you want to zoom. To reset the zoom, click the "Reset
-zoom" button in the top-right corner of the graph.
+## Batches
 
-## R2O:RO Ratio
+**batch**, _noun_
+
+2. A quantity required for or produced as the result of one 
+operation: _made a batch of cookie dough; mixed a batch of cement._ 
+[link](https://www.thefreedictionary.com/batch)
+
+Because recipes list _proportions_ of ingredients, no units of 
+measurement are used.  To make this recipe, you can measure in 
+ounces or grams, even kilograms or tons!
+
+For convenience ceramicists usually stick to the 
+[Metric System](https://en.wikipedia.org/wiki/Metric_system).
+Batches of recipes are measured in _grams_ and _kilograms_.
+Small _test batches_ are usually only 100 or 200 grams, while 
+batches for daily studio use can be 10 or 20 kilograms.
+
+More information about mixing up batches: 
+[Mixing Test Recipes](/testing/mixing-tests/)
+
+### The Batch Calculator
+
+Underneath each recipe listing is a **Calculate Batch** input
+box.  After entering a number into this box, Glazy will
+calculate the total amount for each ingredient.
+
+Here we calculate a batch size of 100:
+
+![Leach 4321 100 Batch](./img/4321_batch_100.png)
+
+And here we calculate a batch size of 200:
+
+![Leach 4321 200 Batch](./img/4321_batch_200.png)
+
+## Base Recipes & Additional Ingredients
+
+Recipes are often divided into two sections:
+the _base recipe_ and _additional ingredients_.
+
+Imagine a recipe for pizza.  The _base recipe_ would
+include the ingredients for making the dough and sauce,
+while toppings like mushrooms and sausage would be
+listed as _additional ingredients_.
+
+For glaze recipes, the _base recipe_ is usually a plain 
+glaze without any color.  _Additional ingredients_ like
+colorants and opacifiers can be added to change the
+look and character of the original _base recipe_.
+
+Below is the same **Leach 4321** recipe, but with an additional
+ingredient of 1% Red Iron Oxide:
+
+#### Leach 4321 Celadon
+
+![Leach 4321 1 200 Batch](./img/4321_1_batch_100.png)
+
+Notice that the name of this recipe has changed.  Because this
+version includes 1% _additive_ Red Iron Oxide, the type of 
+glaze changes to a _celadon_.
+
+Also notice that when calculating a **batch**, _additional 
+ingredients_ are added _in addition to_ the batch amount.
+(The batch amount is actually the _base batch amount_.)
+So the total batch amount for this batch is 101, not 100.
+
+## The Unity Molecular Formula (UMF) Chart
+
+#### See Also: [Unity Molecular Formula (UMF)](/concepts/analysis/#unity-molecular-formula-umf)
+
+Each Recipe page contains a Unity Molecular Formula (UMF) Chart.
+This chart shows the recipes closest to the current recipe.
+The current recipe is represented by a star symbol, while neighboring 
+recipes are represented by a circle.
+
+![The UMF Chart](./img/glazy_stull_chart_ui.png)
+
+### R2O:RO Ratio
+
+#### See Also: [R2O:RO Ratio](/concepts/limits/#r2o-ro-ratio)
 
 ![R2O:RO Ratio](./img/ror2oscale.png) 
+
 _The R2O:RO Ratio Scale shown in the Stull Chart._
 
+The color of each recipe point denotes its R<sub>2</sub>O:RO ratio.
+Recipes high in R<sub>2</sub>O are redder, while recipes low in
+R<sub>2</sub>O are bluer.
+
+### Filtering the Chart
+
+The chart can be filtered by using the form on the right.  The recipe
+category can be changed 
+(in the above screenshot, the category is Iron - Celadon - Blue), or 
+the temperature can be filtered, or the axes of the graph can be 
+modified.
+
+The chart always loads as a plot of the oxides 
+SiO<sub>2</sub> and Al<sub>2</sub>O<sub>3</sub>
+
+Because the Stull Chart is based on SiO<sub>2</sub>:Al<sub>2</sub>O<sub>3</sub>,
+it will disappear if you choose a different oxide pair.
+
+### Show Images
+
+By clicking the "Show Images" checkbox you can display the thumbnail
+photos for each recipe in the graph.  Please note that many recipes
+do not have photos and will only display as a greyed-out square.
+
+![UMF Chart Show Images](./img/umf_show_images.jpg)
+
+### Zooming in the chart
+
+While the UMF Chart in the search can automatically be Pinched & Zoomed,
+the UMF Chart on the recipe page initially has Pinch & Zoom disabled in 
+order to avoid accidental zooming.
+
+Just click the "Allow Pinch & Drag Zoom" to start zooming.
+
 ## Similar Base Recipes
+
+![Similar Base Recipes](./img/similar_base_recipes.jpg)
 
 If two recipes consist of the same base materials (not including
 additional materials) in the same amounts (within 1%), then they are
