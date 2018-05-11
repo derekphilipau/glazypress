@@ -46,11 +46,22 @@ module.exports = {
         ]
       },
       {
-        title: 'Guide',
+        title: 'Ceramics Concepts',
+        collapsible: true,
+        children: [
+          '/concepts/analysis/',
+          '/concepts/firing/',
+          '/concepts/temperature/',
+          '/concepts/limits/'
+        ]
+      },
+      {
+        title: 'Glazy Guide',
         collapsible: true,
         children: [
           '/guide/getting-started',
-          '/guide/recipes'
+          '/guide/recipes/',
+          '/guide/calculator/'
         ]
       },
       {
