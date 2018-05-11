@@ -3,17 +3,17 @@ module.exports = {
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'Glazy Documentation',
+      title: 'Glazy Help',
       description: 'Glazy Documentation'
     }
   },
   head: [
-    ['link', { rel: 'icon', href: `/img/logo.png` }],
+    ['link', { rel: 'icon', href: '/img/logo.png' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: 'apple-touch-icon', href: `/img/icons/apple-touch-icon-144x144.png` }],
+    ['link', { rel: 'apple-touch-icon', href: '/img/icons/apple-touch-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileImage', content: '/img/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
@@ -68,7 +68,8 @@ module.exports = {
         title: 'Testing Recipes',
         collapsible: true,
         children: [
-          '/testing/test-batches'
+          '/testing/mixing-tests/',
+          '/testing/blending/'
         ]
       },
       {
