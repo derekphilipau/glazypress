@@ -22,15 +22,7 @@ verifying existing recipes, and sharing your own recipes helps Glazy
 become a more trustworthy source of ceramics information.
 
 Glazy will always remain open and free. But the servers that Glazy 
-run on are not free. Currently, the Glazy servers cost $50 USD per 
-month (including one VPS web server and one VPS Mysql server). 
-If you would like to help offset the cost of these servers, just 
-click the Paypal "Donate" button below.
-
-
-To support the continued development of Glazy, please consider becoming a patron:
-
-[![Become a Patreon Sponsor](/img/logo-patreon.png)](https://www.patreon.com/bePatron?u=5941215)
+run on are not free.
 
 To make a one-time donation to Glazy using Paypal, click the _"Donate"_ button below:
 
@@ -42,7 +34,13 @@ To make a one-time donation to Glazy using Paypal, click the _"Donate"_ button b
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-## Total Costs & Support
+To support the continued development of Glazy, please consider becoming a patron:
+
+<a href="https://www.patreon.com/bePatron?u=5941215">
+<img src="/img/logo-patreon.png" height="40" alt="Become a Patreon Sponsor">
+</a>
+
+## Costs
 
 As Glazy has grown, so have costs for web hosting.  
 Starting from a simple shared server in 2015, 
@@ -68,12 +66,15 @@ nor the large amount of time required to write and maintain the software._
 
 #### 2018
 
-To date (May), received 20 donations for a total of **$608.29 USD** after Paypal fees.
+To date (May), received 21 donations for a total of
+**$631.89 USD** after Paypal fees.
 
 #### 2017
 
-Received 29 donations for a total of **$723.69 USD** after Paypal fees.
+Received 29 donations for a total of
+**$723.69 USD** after Paypal fees.
 
 #### 2016
 
-Received 25 donations for a total of **$787.86 USD** after Paypal fees.
+Received 25 donations for a total of
+**$787.86 USD** after Paypal fees.
