@@ -50,6 +50,7 @@ module.exports = {
         collapsible: true,
         children: [
           '/concepts/analysis/',
+          '/concepts/calculation/',
           '/concepts/firing/',
           '/concepts/temperature/',
           '/concepts/limits/'

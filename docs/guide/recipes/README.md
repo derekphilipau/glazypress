@@ -1,5 +1,7 @@
 # Recipes
 
+![Various Glazy Recipes](./img/recipes.jpg)
+
 ## What is a Recipe?
 
 Recipes are combinations of one or more ceramic materials.

@@ -1,4 +1,14 @@
-# Calculator
+# Calculator (Calc)
+
+The **Calculator** allows you to make **Recipes**.
+
+As **Materials** and **Amounts** are added to the Calculator form,
+the **Chemical Analysis** of the recipe is automatically calculated.
+
+The recipe is also automatically plotted on the Si:Al chart.
+
+![The Glazy Calculator](./img/calculator.png)
+
 
 ## Why are materials missing from the calculator?
 
@@ -17,4 +27,6 @@ _(In the future, the inventory page will be able to keep track of how much mater
 3. Click the **"Add to Inventory"** button.
 ![GlazyAddInventory](./img/GlazyAddInventory.png)
 
-The material is now available in your inventory (https://glazy.org/inventory) and calculator (https://glazy.org/calculator).
+The material is now available in your
+[inventory](https://glazy.org/inventory) and
+[calculator](https://glazy.org/calculator).
