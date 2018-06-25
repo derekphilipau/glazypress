@@ -37,7 +37,7 @@ Glazy is released under the [GNU General Public License v3.0](https://www.gnu.or
 
 ## Contacting Glazy
 
-Glazy is a work in progress. If you notice a bug or have an idea to improve Glazy, please contact us here.
+Glazy is a work in progress. If you notice a bug or have an idea to improve Glazy, please contact us at **derek [at] glazy [dot] org**.
 
 If you have a question about a specific recipe or material, 
 the [Ceramics Recipes Group](https://www.facebook.com/groups/disisdkat/) 

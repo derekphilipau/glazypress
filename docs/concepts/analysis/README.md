@@ -8,6 +8,8 @@ relates these chemistries to each other in a useful glaze chemistry
 shorthand UMF shows the ratio of glass formers to fluxes and can be used
 to predict glaze behavior.
 
+https://www.youtube.com/watch?v=HyLjAg1_8_4
+
 For more information about UMF and the importance of the flux ratio:
 
   * Linda Arbuckle's [Introduction to Glaze Calculation](http://lindaarbuckle.com/handouts/glaze-calc-intro.pdf)

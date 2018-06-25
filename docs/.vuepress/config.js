@@ -22,6 +22,7 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
+      { text: 'Contact', link: '/about/#contacting-glazy' },
       { text: 'Donate', link: '/support#how-to-support-glazy' },
       { text: 'Glazy.org', link: 'https://glazy.org' },
     ],

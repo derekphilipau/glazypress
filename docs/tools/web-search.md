@@ -39,20 +39,26 @@ This Google search finds results in the following websites:
     </tbody>
 </table>
 
-<script>
-    (function() {
-        var cx = '005240168016196418376:0gvgha8oprm';
-        var gcse = document.createElement('script');
-        gcse.type = 'text/javascript';
-        gcse.async = true;
-        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(gcse, s);
-    })();
-</script>
 <div>
 <gcse:searchbox></gcse:searchbox>
 </div>
 <div>
 <gcse:searchresults></gcse:searchresults>
 </div>
+
+
+<script>
+export default {
+    mounted () {
+        (function() {
+            var cx = '005240168016196418376:0gvgha8oprm';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
+    }
+}
+</script>
