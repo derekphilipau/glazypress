@@ -89,6 +89,39 @@ weights.
 
 <img src="./img/digitalscales.jpg" title="Two digital scales">
 
+## Using a Beam Scale
+
+For those on a budget, perhaps the most affordable solution for 
+precise weighing of glaze materials is a _triple beam scale_.
+
+1.  Select a container to hold glaze materials and weigh it on the scale.
+In the example below, the container weighs 63 grams:
+
+<img src="./img/tare_1.jpg" title="Two digital scales">
+
+2. On the Glazy recipe page, enter the **Tare Weight**:
+
+<img src="./img/tare_2.jpg" title="Two digital scales">
+
+3. Enter the **Batch Size**.  The batch size is _unit independent_.
+In the below example, we could be measuring 400 grams, 400 pounds, 
+or even 400 tons of recipe material.  But in this case, we are using grams.
+Notice that the final subtotal equals **463**, which is the _Tare Weight_ 
+(weight of the container) plus the _Batch Size_.
+
+<img src="./img/tare_3.jpg" title="Two digital scales">
+
+4.  After measuring out the first ingredient, **EPK**, our scale should
+show **251** (63 grams container weight plus 188 grams of EPK):
+
+<img src="./img/tare_4.jpg" title="Two digital scales">
+
+5.  After measuring out all of the ingredients for this batch, 
+the scale should read **463** (63 gram container plus 400 gram batch):
+
+<img src="./img/tare_4.jpg" title="Two digital scales">
+
+
 ## Mixing Test Glazes
 
 It’s important to wear a well-fitting, NIOSH certified 
