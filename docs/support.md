@@ -66,7 +66,7 @@ nor the large amount of time required to write and maintain the software._
 
 #### 2018
 
-To date (May), received 29 donations for a total of
+To date (August 2018), received 29 donations for a total of
 **$842.94 USD** after Paypal fees.
 
 #### 2017
