@@ -29,6 +29,13 @@ module.exports = {
     sidebarDepth: 2,
     sidebar: [
       {
+        title: 'Support Glazy',
+        collapsible: false,
+        children: [
+          'support'
+        ]
+      },
+      {
         title: 'About',
         collapsible: true,
         children: [
@@ -37,13 +44,6 @@ module.exports = {
           '/about/health-warning',
           '/about/privacy',
           '/about/terms-of-service'
-        ]
-      },
-      {
-        title: 'Support Glazy',
-        collapsible: true,
-        children: [
-          'support'
         ]
       },
       {

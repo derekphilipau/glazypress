@@ -21,8 +21,18 @@ The best way to support Glazy is to use it! Uploading images of glazes,
 verifying existing recipes, and sharing your own recipes helps Glazy 
 become a more trustworthy source of ceramics information.
 
-Glazy will always remain open and free. But the servers that Glazy 
-run on are not free.
+**Glazy will always remain open and free.**  But the Glazy code takes many hours each month to write and maintain,
+as does providing support to users, creating tests, and importing new data into the database.
+The web servers that Glazy runs on cost more as Glazy grows.
+
+To support the continued development of Glazy, please consider becoming a patron on Patreon.
+Even just $2/month (Student Tier) makes a huge difference!
+
+To become a patron, just click here:
+
+<a href="https://www.patreon.com/bePatron?u=5941215">
+<img src="/img/logo-patreon.png" height="40" alt="Become a Patreon Sponsor">
+</a>
 
 To make a one-time donation to Glazy using Paypal, click the _"Donate"_ button below:
 
@@ -34,13 +44,23 @@ To make a one-time donation to Glazy using Paypal, click the _"Donate"_ button b
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-To support the continued development of Glazy, please consider becoming a patron:
+## Patreon Sponsors
 
-<a href="https://www.patreon.com/bePatron?u=5941215">
-<img src="/img/logo-patreon.png" height="40" alt="Become a Patreon Sponsor">
-</a>
 
-## Costs
+[![Ceramic Materials ​Workshop](/img/logo-cmw.jpg)](https://www.ceramicmaterialsworkshop.com/online-classes.html)
+
+[Ceramic Materials Workshop](https://www.ceramicmaterialsworkshop.com/online-classes.html)
+
+"Ceramic Materials ​Workshop is a place online to understand 
+and explore how and why our Clay and Glazes work (and don't work). 
+Our materials speak for us in the kitchen and gallery, it benefits 
+us to learn about how to speak through our materials. Mastering 
+the skills of clay and glaze performance helps every ceramicists, 
+become their best self in the studio. Ceramicists at all levels 
+can now learn how Clay and Glazes function, online."
+
+
+## Server Costs
 
 As Glazy has grown, so have costs for web hosting.  
 Starting from a simple shared server in 2015, 
@@ -62,7 +82,7 @@ _Note that these fees do not include periodic purchases of supporting
 software licenses & hardware needed to develop the Glazy software, 
 nor the large amount of time required to write and maintain the software._
 
-## Past Support
+## Past Support (One-time Donations)
 
 #### 2018
 

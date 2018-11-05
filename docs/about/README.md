@@ -43,18 +43,3 @@ If you have a question about a specific recipe or material,
 the [Ceramics Recipes Group](https://www.facebook.com/groups/disisdkat/) 
 on Facebook is a great place to ask.
 
-## Learning More
-
-Glazy does not sell any product or service or benefit financially from providing the information on this site.
-
-[![Ceramic Materials ​Workshop](/img/logo-cmw.jpg)](https://www.ceramicmaterialsworkshop.com/)
-
-[Ceramic Materials Workshop](https://www.ceramicmaterialsworkshop.com/)
-
-"Ceramic Materials ​Workshop is a place online to understand 
-and explore how and why our Clay and Glazes work (and don't work). 
-Our materials speak for us in the kitchen and gallery, it benefits 
-us to learn about how to speak through our materials. Mastering 
-the skills of clay and glaze performance helps every ceramicists, 
-become their best self in the studio. Ceramicists at all levels 
-can now learn how Clay and Glazes function, online."
