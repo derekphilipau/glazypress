@@ -59,6 +59,13 @@ the skills of clay and glaze performance helps every ceramicists,
 become their best self in the studio. Ceramicists at all levels 
 can now learn how Clay and Glazes function, online."
 
+[![Might Mud Mixer](/img/logo_mighty_color.png)](https://mightymudmixer.com/)
+
+[Might Mud Mixer](https://mightymudmixer.com/)
+
+Found a beautiful glaze on Glazy but don't have the materials or space to mix the recipe yourself?
+Might Mud Mixer will mix up the glaze and ship it to you!  Or you can order one of Mighty Mud Mixer's
+beatiful, tested, and reliable glaze recipes.  Just visit <a href="https://mightymudmixer.com/">https://mightymudmixer.com</a> today!
 
 ## Server Costs
 
