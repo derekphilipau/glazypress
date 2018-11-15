@@ -5,6 +5,18 @@ Before doing anything, please read the
 and be aware of the dangers when mixing, working with and firing
 ceramic materials.
 
+## Getting Help
+
+Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Please join the official Glazy Support Group:  
+
+[https://www.facebook.com/groups/glazysupport/](https://www.facebook.com/groups/glazysupport/)
+
+
+If you don't use Facebook, you can always post a question to the Glazy Wiki:
+
+[https://wiki.glazy.org](https://wiki.glazy.org)
+
+
 ## Joining Glazy
 
 Some functions, like searching recipes, viewing recipes 

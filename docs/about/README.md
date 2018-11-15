@@ -35,6 +35,17 @@ Glazy is released under the [GNU General Public License v3.0](https://www.gnu.or
 
 [Glazy Documentation Repository](https://github.com/derekphilipau/glazypress)
 
+## Getting Help
+
+Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Please join the official Glazy Support Group:  
+
+[https://www.facebook.com/groups/glazysupport/](https://www.facebook.com/groups/glazysupport/)
+
+
+If you don't use Facebook, you can always post a question to the Glazy Wiki:
+
+[https://wiki.glazy.org](https://wiki.glazy.org)
+
 ## Contacting Glazy
 
 Glazy is a work in progress. If you notice a bug or have an idea to improve Glazy, please contact us at **derek [at] glazy [dot] org**.

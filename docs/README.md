@@ -12,3 +12,13 @@ features:
   details: We promote sharing and testing in order to learn more about ceramic chemistry while verifying and improving results.
 footer: Copyright © 2018-present Derek Au
 ---
+# Getting Help
+
+Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Please join the official Glazy Support Group:  
+
+[https://www.facebook.com/groups/glazysupport/](https://www.facebook.com/groups/glazysupport/)
+
+
+If you don't use Facebook, you can always post a question to the Glazy Wiki:
+
+[https://wiki.glazy.org](https://wiki.glazy.org)
