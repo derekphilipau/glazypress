@@ -123,3 +123,88 @@ glaze recipes just list "Feldspar" (meat) or "Potash Feldspar"
 
 When working with actual materials in the studio, it's best to use the 
 most accurate analysis you can find for each material.
+
+
+## Material Metadata 
+
+### Subtype
+
+Materials can be set as a subtype of one of the following values:
+
+*Alumina, Ash, Clay, Colorant, Miscellaneous, Feldspar, Flux, Frit, Opacifier, Silica*
+
+This list of subtypes was inherited from imported recipe data and are still used 
+because no one has yet suggested a better list.  The subtype is simply an organizational 
+tool used to group materials together.
+
+### Parent Material
+
+While not a required field, *Parent Material* is quite important for the functions of Glazy.
+Namely, this field is used to determine whether or not materials and the recipes that
+use these materials, are similar.
+
+As an example, let's look at the classic Leach 4321:
+ * 40 Potash Feldspar
+ * 30 Silica
+ * 20 Whiting
+ * 10 Kaolin
+
+Now imagine you wish to make a batch of this recipe.  You look everywhere in your 
+studio for materials called "Potash Feldspar" and "Kaolin" but cannot find them.
+However, you do find "Custer Feldspar" and "EPK", and you realize that these materials
+are *types* of Potash Feldspar and Kaolin, respectively.  Your final recipe batch of Leach 4321 is:
+ * 40 Custer Feldspar
+ * 30 Silica
+ * 20 Whiting
+ * 10 EPK
+ 
+While technically both of the above recipes are "Leach 4321", they differ in both materials 
+used as well as final chemical analysis.  However, when comparing glaze recipes we often want to 
+overlook slight differences in chemistry between similar materials (in this case, 
+types of Potash Feldspar and Kaolin).  That is not to say that these differences are not *significant*,
+and in fact some material substitutions may give quite different results.
+
+In Glazy, materials are organized into a *tree*.  In other words, materials can have
+*parents* and *children*.  In the case above using Leach 4321, "Custer Feldspar" is 
+the *child* of "Potash Feldspar".  Similarly, "EPK" is a child of "Kaolin".  This is 
+because there are many types of "Potash Feldspar" and "Kaolin", 
+"Custer Feldspar" and "EPK" being just a couple of them.
+
+When Glazy attempts to find *similar* base recipes, it does so using the immediate parent
+materials.  In the above batch of Leach 4321:
+ * 40 Custer Feldspar (Parent: Potash Feldspar)
+ * 30 Silica (No Parent)
+ * 20 Whiting (No Parent)
+ * 10 EPK (Parent: Kaolin)
+
+In this case, the recipe used for comparison is:
+ * 40 Potash Feldspar
+ * 30 Silica
+ * 20 Whiting
+ * 10 Kaolin
+
+Obviously, this is the same recipe as our original Leach 4321.  So Glazy recognizes these 
+two recipes as *equivalent*.
+
+When adding new materials to Glazy, it is advisable to specify a Parent Material if possible.
+
+For example most Potassium Feldspars, the parent should be "Potash Feldspar" (owned by the Glazy Admin).
+If adding EPK, SSP, or Helmar Kaolin, the parent should be "Kaolin".
+
+### Status
+
+There are currently only three statuses:
+
+Testing, Production, Discontinued
+
+**Testing** signifies that a material is not actively being used in the studio.  After
+many tests, a material may be designated as **Production** if it begins to be used regularly
+in the studio.  A material is changed to **Discontinued** when it is no longer used for some reason,
+e.g. the mine is no longer active or the material is no longer available for some reason.
+
+### Country
+
+Often it can be useful to associate a material with a Country.  While *theoretical* materials
+like "Feldspar" don't have a location, others like "Mahavir Feldspar" is tied to a specific mine.
+Some ceramicists prefer to use locally-sourced materials, and the **Country** field can
+help guide them.
