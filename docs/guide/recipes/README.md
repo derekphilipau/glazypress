@@ -115,6 +115,44 @@ ingredients_ are added _in addition to_ the batch amount.
 (The batch amount is actually the _base batch amount_.)
 So the total batch amount for this batch is 101, not 100.
 
+## Recipe Information
+
+Each Recipe has descriptive information, or *metadata*, that describes it.  
+In general, the more metadata is added to a recipe, the easier it is to 
+categorize, compare, and search recipes.
+
+Glazy uses *highly structured* data, meaning that instead of allowing users to define descriptive 
+"tags" for recipes (like hashtags in Instagram), users are only allowed to select from a pre-defined, 
+finite list of categories.  Unfortunately, the names of these categories are currently only available
+in the English language.  If you do not agree with a category, please contact Glazy and we can discuss
+changing it.
+
+### Type and Subtype
+
+Defining a useful, universal *taxonomy* for glazes is very difficult.  Some of the recipe types and subtypes in Glazy were originally imported from old databases, while other
+types were inspired by John Britt's [High-Fire Glazes](https://johnbrittpottery.com/shop/the-complete-guide-to-high-fire-glazes-glazing-firing-at-cone-10/).
+
+Glazy's recipe types are constantly being refined.  If you have ideas to improve the system, please contact us.
+
+Regardless of whether or not Glazy's system of types is adequate, when creating a recipe please
+specify a type and subtype.  If glazes are categorized more specifically with subtypes like "Blue Celadon",
+"Black", and "Clear" then it is much easier for both the Glazy software and users to navigate the recipes.
+
+### Status
+
+There are currently only three status levels:
+
+ * **Testing:** A recipe that is not actively being used in the studio.
+ * **Production:** A recipe that is actively used in the studio.
+ * **Discontinued:** A recipe that is no longer used for some reason, for example an ingredient is no longer available or the glaze did not fit a clay body.
+
+Only recipes with a status of **Production** are displayed in the default Glazy search page.
+
+### Country
+
+It can be useful to associate a recipe with a Country if the ingredients and firing are specific to a location.  
+For example, many traditional Chinese materials are tied to specific mine and kiln locations.
+
 ## The Unity Molecular Formula (UMF) Chart
 
 #### See Also: [Unity Molecular Formula (UMF)](/concepts/analysis/#unity-molecular-formula-umf)

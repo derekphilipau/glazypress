@@ -193,14 +193,13 @@ If adding EPK, SSP, or Helmar Kaolin, the parent should be "Kaolin".
 
 ### Status
 
-There are currently only three statuses:
+There are currently only three status levels:
 
-Testing, Production, Discontinued
+ * **Testing:** A material that is not actively being used in the studio.
+ * **Production:** A material that is actively used in the studio.
+ * **Discontinued:** A material that is no longer available, for example the mine has closed down.
 
-**Testing** signifies that a material is not actively being used in the studio.  After
-many tests, a material may be designated as **Production** if it begins to be used regularly
-in the studio.  A material is changed to **Discontinued** when it is no longer used for some reason,
-e.g. the mine is no longer active or the material is no longer available for some reason.
+Only materials with a status of **Production** are displayed in the default Glazy search page.
 
 ### Country
 
