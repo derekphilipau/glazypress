@@ -9,6 +9,8 @@ as possible in order not to "miss" a glaze.
 
 Search for any recipes, materials or analyses that contain the keywords in *either* the **Name**, **Other Names**, or **Description** fields.
 
+Search is case-insensitive, i.e. searching for *"Hamada"* is the same as searching for *"hamada"*.
+
 Examples of keyword searches:
 
  * **"2967"**  
