@@ -11,24 +11,14 @@ Search for any recipes, materials or analyses that contain the keywords in *eith
 
 Examples of keyword searches:
 
-### "2967"
-
-Because the search term is a number, search for any recipe or material ID's equal to "2967" 
+ * **"2967"**  
+ Because the search term is a number, search for any recipe or material ID's equal to "2967" 
 **OR** search for any items that have the string "2967" in the name or description.
-
-### "Hamada Rust"
-
-Search for the *exact phrase* "Hamada Rust" **OR** any item containing the words beginning with "Hamada" **AND** "Rust"
-
-### "Ham Ru"
-
-Search for the *exact phrase* "Ham Ru" **OR** any item containing the words beginning with "Ham" **AND** "Ru".
-This search will return the **Hamada Rust** recipe because it contains **both** the "Ham" and "Ru" strings.
-
-### "Ham"
-
-Search for the *exact phrase* "Ham" **OR** any item containing the words beginning with "Ham".
-This search will return items containing the words **"Hamada"**, **"Hamer"**, **"Hammer"**, etc.
+ * **"Hamada Rust"**
+ Search for the *exact phrase* "Hamada Rust" **OR** any item containing the words beginning with "Hamada" **AND** "Rust"
+ * **"Ham Ru"**
+ Search for the *exact phrase* "Ham Ru" **OR** any item containing the words beginning with "Ham" **AND** "Ru". This search will return the **Hamada Rust** recipe because it contains **both** the "Ham" and "Ru" strings.
+ * **"Ham"**  Search for the *exact phrase* "Ham" **OR** any item containing the words beginning with "Ham".  This search will return items containing the words **"Hamada"**, **"Hamer"**, **"Hammer"**, etc.
 
 ## Color Search
 
