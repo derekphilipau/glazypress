@@ -7,11 +7,28 @@ as possible in order not to "miss" a glaze.
 
 ## Keyword Search
 
-Glazy's keyword search is fairly basic.
-Searching for *"Hamada Rust"* will give you results containing the words *"Hamada" OR "Rust"* ordered by rank.
-Some commonly used ceramics terms like *"glaze", "kiln", "pottery"* as well as short words like *"and", "but", "if"* are filtered from the search.
-If your search does not produce results, try simplifying your keywords.
-Finally, if you are searching for a recipe _category_ like "Celadon", use the _category_ select rather than the keyword search.
+Search for any recipes, materials or analyses that contain the keywords in *either* the **Name**, **Other Names**, or **Description** fields.
+
+Examples of keyword searches:
+
+### "2967"
+
+Because the search term is a number, search for any recipe or material ID's equal to "2967" 
+**OR** search for any items that have the string "2967" in the name or description.
+
+### "Hamada Rust"
+
+Search for the *exact phrase* "Hamada Rust" **OR** any item containing the words beginning with "Hamada" **AND** "Rust"
+
+### "Ham Ru"
+
+Search for the *exact phrase* "Ham Ru" **OR** any item containing the words beginning with "Ham" **AND** "Ru".
+This search will return the **Hamada Rust** recipe because it contains **both** the "Ham" and "Ru" strings.
+
+### "Ham"
+
+Search for the *exact phrase* "Ham" **OR** any item containing the words beginning with "Ham".
+This search will return items containing the words **"Hamada"**, **"Hamer"**, **"Hammer"**, etc.
 
 ## Color Search
 
