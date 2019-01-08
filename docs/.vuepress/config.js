@@ -62,6 +62,7 @@ module.exports = {
         collapsible: true,
         children: [
           '/guide/',
+          '/guide/oxides/',
           '/guide/materials/',
           '/guide/inventory/',
           '/guide/calculator/',

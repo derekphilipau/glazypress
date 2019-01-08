@@ -5,6 +5,16 @@ Before doing anything, please read the
 and be aware of the dangers when mixing, working with and firing
 ceramic materials.
 
+## What Browser?
+
+In an ideal world, there would be multiple healthy browsers that support the same web standards.  
+In reality, each browser is slightly different, and it takes time and effort to make a website run on each browser.
+
+Because Glazy lacks resources, we can only test against a single browser, Google Chrome.  
+Chrome can be installed on almost any device, from computers to mobile phones.
+
+[Download Google Chrome Now!](https://www.google.com/chrome/)
+
 ## Getting Help
 
 Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Please join the official Glazy Support Group:  
