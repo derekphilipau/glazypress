@@ -50,7 +50,7 @@ module.exports = {
         title: 'Video Tutorials',
         collapsible: false,
         children: [
-          'video'
+          'tutorials'
         ]
       },
       {
