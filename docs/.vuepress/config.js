@@ -47,6 +47,13 @@ module.exports = {
         ]
       },
       {
+        title: 'Video Tutorials',
+        collapsible: false,
+        children: [
+          'video'
+        ]
+      },
+      {
         title: 'Ceramics Concepts',
         collapsible: true,
         children: [
