@@ -1,6 +1,6 @@
 # Materials
 
-![Various Glazy Materials](./img/feldspars.jpg)
+![Various Glazy Materials](./img/materials.jpg)
 
 ## What is a Material?
 
@@ -207,3 +207,9 @@ Often it can be useful to associate a material with a Country.  While *theoretic
 like "Feldspar" don't have a location, others like "Mahavir Feldspar" is tied to a specific mine.
 Some ceramicists prefer to use locally-sourced materials, and the **Country** field can
 help guide them.
+
+## Create a Material
+
+You can easily add your own materials to Glazy:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dj8391mN6VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

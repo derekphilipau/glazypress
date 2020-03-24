@@ -49,6 +49,12 @@ used when making up a large bucket of glaze or clay.
 
 _Note: All recipes are measured by weight, not volume!_
 
+## Recipe Basics
+
+Learn how to bookmark, print, export, and make batches of recipes:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q8-thIhLdBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Batches
 
 **batch**, _noun_
@@ -153,94 +159,6 @@ Only recipes with a status of **Production** are displayed in the default Glazy 
 It can be useful to associate a recipe with a Country if the ingredients and firing are specific to a location.  
 For example, many traditional Chinese materials are tied to specific mine and kiln locations.
 
-
-## Oxides
-
-
-
-.oxide-colors-R2O    { color: #d32f2f; }
-.oxide-colors-RO     { color: #1976d2; }
-
-.oxide-colors-Al2O3  { color: #388e3c; }
-.oxide-colors-PbO    { color: #388e3c; }
-.oxide-colors-SnO2   { color: #388e3c; }
-
-.oxide-colors-SiO2   { color: #7b1fa2; }
-.oxide-colors-B2O3   { color: #7b1fa2; }
-
-.oxide-colors-Li2O   { color: #d32f2f; }
-.oxide-colors-Na2O   { color: #d32f2f; }
-.oxide-colors-K2O    { color: #d32f2f; }
-
-.oxide-colors-BeO    { color: #1976d2; }
-.oxide-colors-MgO    { color: #1976d2; }
-.oxide-colors-CaO    { color: #1976d2; }
-.oxide-colors-SrO    { color: #1976d2; }
-.oxide-colors-BaO    { color: #1976d2; }
-
-.oxide-colors-TiO2   { color: #f57c00; }
-.oxide-colors-ZrO    { color: #f57c00; }
-.oxide-colors-ZrO2   { color: #f57c00; }
-.oxide-colors-V2O5   { color: #f57c00; }
-.oxide-colors-Cr2O3  { color: #f57c00; }
-.oxide-colors-MnO    { color: #f57c00; }
-.oxide-colors-MnO2   { color: #f57c00; }
-.oxide-colors-FeO    { color: #f57c00; }
-.oxide-colors-Fe2O3  { color: #f57c00; }
-.oxide-colors-CoO    { color: #f57c00; }
-.oxide-colors-NiO    { color: #f57c00; }
-.oxide-colors-CuO    { color: #f57c00; }
-.oxide-colors-Cu2O   { color: #f57c00; }
-.oxide-colors-CdO    { color: #f57c00; }
-.oxide-colors-ZnO    { color: #f57c00; }
-
-.oxide-colors-F      { color: #757575; }
-
-.oxide-colors-P2O5   { color: #0097a7; }
-
-/* OXIDE FILL COLORS */
-.oxide-colors-fill-R2O    { fill: #d32f2f; }
-.oxide-colors-fill-RO     { fill: #1976d2; }
-
-.oxide-colors-fill-Al2O3  { fill: #388e3c; }
-.oxide-colors-fill-PbO    { fill: #388e3c; }
-.oxide-colors-fill-SnO2   { fill: #388e3c; }
-
-.oxide-colors-fill-SiO2   { fill: #7b1fa2; }
-.oxide-colors-fill-B2O3   { fill: #7b1fa2; }
-
-.oxide-colors-fill-Li2O   { fill: #d32f2f; }
-.oxide-colors-fill-Na2O   { fill: #d32f2f; }
-.oxide-colors-fill-K2O    { fill: #d32f2f; }
-
-.oxide-colors-fill-BeO    { fill: #1976d2; }
-.oxide-colors-fill-MgO    { fill: #1976d2; }
-.oxide-colors-fill-CaO    { fill: #1976d2; }
-.oxide-colors-fill-SrO    { fill: #1976d2; }
-.oxide-colors-fill-BaO    { fill: #1976d2; }
-
-.oxide-colors-fill-TiO2   { fill: #f57c00; }
-.oxide-colors-fill-ZrO    { fill: #f57c00; }
-.oxide-colors-fill-ZrO2   { fill: #f57c00; }
-.oxide-colors-fill-V2O5   { fill: #f57c00; }
-.oxide-colors-fill-Cr2O3  { fill: #f57c00; }
-.oxide-colors-fill-MnO    { fill: #f57c00; }
-.oxide-colors-fill-MnO2   { fill: #f57c00; }
-.oxide-colors-fill-FeO    { fill: #f57c00; }
-.oxide-colors-fill-Fe2O3  { fill: #f57c00; }
-.oxide-colors-fill-CoO    { fill: #f57c00; }
-.oxide-colors-fill-NiO    { fill: #f57c00; }
-.oxide-colors-fill-CuO    { fill: #f57c00; }
-.oxide-colors-fill-Cu2O   { fill: #f57c00; }
-.oxide-colors-fill-CdO    { fill: #f57c00; }
-.oxide-colors-fill-ZnO    { fill: #f57c00; }
-
-.oxide-colors-fill-F      { fill: #757575; }
-
-.oxide-colors-fill-P2O5   { fill: #0097a7; }
-
-
-
 ## The Unity Molecular Formula (UMF) Chart
 
 #### See Also: [Unity Molecular Formula (UMF)](/concepts/analysis/#unity-molecular-formula-umf)
@@ -251,6 +169,14 @@ The current recipe is represented by a star symbol, while neighboring
 recipes are represented by a circle.
 
 ![The UMF Chart](./img/glazy_stull_chart_ui.png)
+
+### The Stull Chart 
+
+Overlayed on top of the UMF Chart is the [http://localhost:8080/concepts/limits/#stull-charts](Stull Chart).
+
+This video shows the basics of how to use the Stull Chart:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_cxbwkdYPYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### R2O:RO Ratio
 
@@ -292,7 +218,15 @@ While the UMF Chart in the search can automatically be Pinched & Zoomed,
 the UMF Chart on the recipe page initially has Pinch & Zoom disabled in 
 order to avoid accidental zooming.
 
-Just click the "Allow Pinch & Drag Zoom" to start zooming.
+Just click the "Allow Zoom" button to start zooming.
+
+![UMF Chart Allow Zoom](./img/allow_zoom.png)
+
+## Similar Recipes & Analyses
+
+Introduction to similar recipes and analyses in Glazy:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0iWGkC7qomE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Similar Base Recipes
 
@@ -316,7 +250,9 @@ their parent materials) are different.
 with 40% Feldspar are considered similar because the material amounts
 only vary by %1.
 
-## Similar Unity Formulas
+## Similar Analyses
+
+![Similar Analyses](./img/similar_analyses.png)
 
 Two recipes are considered to have similar unity formulas if their
 oxides do not differ more than .05 For this comparison, K2O and Na2O are
@@ -324,6 +260,39 @@ combined (KNaO).
 
 _Note: Recipes that have similar unity formulas do not necessarily exhibit
 similar fired characterisitics._
+
+
+## Oxide Coloring
+
+Oxides are colored by their role in the UMF.  The role of an oxide may change depending upon whether you are viewing *Traditional UMF* or *Extended UMF*.
+
+### Traditional UMF Coloring
+
+<span style="color: #d32f2f;">R<sub>2</sub>O Group: Na<sub>2</sub>O, K<sub>2</sub>O, Li<sub>2</sub>O</span>
+
+<span style="color: #1976d2;">RO Group: PbO, SrO, BaO, ZnO, CaO, MgO, MnO</span>
+
+<span style="color: #388e3c;">R<sub>2</sub>O<sub>3</sub> Group:  Al<sub>2</sub>O3</span>
+
+<span style="color: #f57c00;">B<sub>2</sub>O<sub>3</sub> (Special Case)</span>
+
+<span style="color: #7b1fa2;">RO<sub>2</sub> Group: SiO<sub>2</sub>, ZrO<sub>2</sub>, SnO<sub>2</sub>, TiO<sub>2</sub></span>
+
+<span style="color: #2c2c2c;">Other Oxides: FeO, Fe<sub>2</sub>O<sub>3</sub>, MnO<sub>2</sub>, P<sub>2</sub>O<sub>5</sub>, F, CoO, Cr<sub>2</sub>O<sub>3</sub>, Cu<sub>2</sub>O, CuO, NiO, V<sub>2</sub>O<sub>5</sub>, ZrO, HfO<sub>2</sub>, Nb<sub>2</sub>O<sub>5</sub>, Ta<sub>2</sub>O<sub>5</sub>, MoO<sub>3</sub>, WO<sub>3</sub>, OsO<sub>2</sub>, IrO<sub>2</sub>, PtO<sub>2</sub>, Ag<sub>2</sub>O, Au<sub>2</sub>O<sub>3</sub>, GeO<sub>2</sub>, As<sub>2</sub>O<sub>3</sub>, Sb<sub>2</sub>O<sub>3</sub>, Bi<sub>2</sub>O<sub>3</sub>, SeO<sub>2</sub>, La<sub>2</sub>O<sub>3</sub>, CeO<sub>2</sub>, PrO<sub>2</sub>, Pr<sub>2</sub>O<sub>3</sub>, Nd<sub>2</sub>O<sub>3</sub>, U<sub>3</sub>O8, Sm<sub>2</sub>O<sub>3</sub>, Eu<sub>2</sub>O<sub>3</sub>, Tb<sub>2</sub>O<sub>3</sub>, Dy<sub>2</sub>O<sub>3</sub>, Ho<sub>2</sub>O<sub>3</sub>, Er<sub>2</sub>O<sub>3</sub>, Tm<sub>2</sub>O<sub>3</sub>, Yb<sub>2</sub>O<sub>3</sub>, Lu<sub>2</sub>O<sub>3</sub></span>
+
+### Extended UMF Coloring
+
+<span style="color: #d32f2f;">R<sub>2</sub>O Group: Na<sub>2</sub>O, K<sub>2</sub>O, Li<sub>2</sub>O, Bi<sub>2</sub>O<sub>3</sub>, CuO, SnO<sub>2</sub></span>
+
+<span style="color: #1976d2;">RO Group: PbO, SrO, BaO, ZnO, CaO, MgO, MnO, Fe<sub>2</sub>O<sub>3</sub>, MnO<sub>2</sub>, CoO</span>
+
+<span style="color: #388e3c;">R<sub>2</sub>O<sub>3</sub> Group:  Al<sub>2</sub>O<sub>3</sub>, TiO<sub>2</sub>, NiO</span>
+
+<span style="color: #f57c00;">B<sub>2</sub>O<sub>3</sub> (Special Case)</span>
+
+<span style="color: #7b1fa2;">RO<sub>2</sub> Group: SiO<sub>2</sub>, ZrO<sub>2</sub></span>
+
+<span style="color: #2c2c2c;">Other Oxides: FeO, P<sub>2</sub>O<sub>5</sub>, F, Cr<sub>2</sub>O<sub>3</sub>, Cu<sub>2</sub>O, V<sub>2</sub>O<sub>5</sub>, ZrO, HfO<sub>2</sub>, Nb<sub>2</sub>O<sub>5</sub>, Ta<sub>2</sub>O<sub>5</sub>, MoO<sub>3</sub>, WO<sub>3</sub>, OsO<sub>2</sub>, IrO<sub>2</sub>, PtO<sub>2</sub>, Ag<sub>2</sub>O, Au<sub>2</sub>O<sub>3</sub>, GeO<sub>2</sub>, As<sub>2</sub>O<sub>3</sub>, Sb<sub>2</sub>O<sub>3</sub>, SeO<sub>2</sub>, La<sub>2</sub>O<sub>3</sub>, CeO<sub>2</sub>, PrO<sub>2</sub>, Pr<sub>2</sub>O<sub>3</sub>, Nd<sub>2</sub>O<sub>3</sub>, U<sub>3</sub>O8, Sm<sub>2</sub>O<sub>3</sub>, Eu<sub>2</sub>O<sub>3</sub>, Tb<sub>2</sub>O<sub>3</sub>, Dy<sub>2</sub>O<sub>3</sub>, Ho<sub>2</sub>O<sub>3</sub>, Er<sub>2</sub>O<sub>3</sub>, Tm<sub>2</sub>O<sub>3</sub>, Yb<sub>2</sub>O<sub>3</sub>, Lu<sub>2</sub>O<sub>3</sub></span>
 
 ## Exporting Recipes
 

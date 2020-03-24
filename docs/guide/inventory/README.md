@@ -11,6 +11,12 @@ _materials that you can use_.
 
 The **Calculator** is limited to the **Inventory** materials.
 
+## Introducing the Materials Inventory
+
+This video introduces the Inventory:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CDRIB2PJQFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Why are materials missing from the calculator?
 
 In the first version of Glazy, _all_ materials in the database were shown in the calculator.  Not only did this slow down the calculator, it also gave users too many  options that they would most likely never use.

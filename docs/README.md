@@ -10,15 +10,14 @@ features:
   details: Glazy's server fees are paid for by donations by people like you!
 - title: Learn & Share
   details: We promote sharing and testing in order to learn more about ceramic chemistry while verifying and improving results.
-footer: Copyright © 2018-present Derek Au
+footer: Copyright © 2020-present Derek Au
 ---
-# Getting Help
 
-Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Please join the official Glazy Support Group:  
+## Need help?
 
-[https://www.facebook.com/groups/glazysupport/](https://www.facebook.com/groups/glazysupport/)
+[You can read the Guide here.](/guide/)  
 
+If you cannot login, please email **derek [at] glazy [dot] org**.
 
-If you don't use Facebook, you can always post a question to the Glazy Wiki:
+If you have a question about a specific recipe or material, the [Ceramics Recipes Group](https://www.facebook.com/groups/disisdkat/) on Facebook is a great place to ask.
 
-[https://wiki.glazy.org](https://wiki.glazy.org)

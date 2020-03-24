@@ -4,50 +4,67 @@
 
 Glazy is 100% free for use by anyone.
 
-Glazy is 100% open source 
+Glazy doesn't spy on you, sell your information to third parties, or otherwise profit on you in any way.
 
-Glazy doesn't spy on you, sell your information to third parties,
-or otherwise profit on you in any way.
-
-Glazy is the only online glaze calculation software 
-that promotes sharing recipes and test results so 
-that potters can learn more about ceramic chemistry
-while verifying and improving results.
-
+Glazy is the only online glaze calculation software that promotes sharing recipes and test results so that potters can learn more about ceramic chemistry while verifying and improving results.
 
 ## How to Support Glazy
 
-The best way to support Glazy is to use it! Uploading images of glazes, 
-verifying existing recipes, and sharing your own recipes helps Glazy 
-become a more trustworthy source of ceramics information.
+The best way to support Glazy is to use it! Uploading images of glazes, verifying existing recipes, and sharing your own recipes helps Glazy become a more trustworthy source of ceramics information.
 
-**Glazy will always remain open and free.**  But the Glazy code takes many hours each month to write and maintain,
-as does providing support to users, creating tests, and importing new data into the database.
-The web servers that Glazy runs on cost more as Glazy grows.
+**Glazy will always remain open and free.**  But the Glazy code takes many hours each month to write and maintain, as does providing support to users, creating tests, and importing new data into the database. The web servers that Glazy runs on cost more as Glazy grows.
 
-To support the continued development of Glazy, please consider becoming a patron on Patreon.
-Even just $2/month (Student Tier) makes a huge difference!
+### Support Glazy on Patreon
+
+To support the continued development of Glazy, please consider becoming a patron on Patreon.  Even just $2/month (Student Tier) makes a huge difference!
 
 To become a patron, just click here:
 
 <a href="https://www.patreon.com/bePatron?u=5941215">
-<img src="/img/logo-patreon.png" height="40" alt="Become a Patreon Sponsor">
+<img src="/img/support/logo-patreon.png" height="72" alt="Become a Patreon Sponsor" />
 </a>
 
-To make a one-time donation to Glazy using Paypal, click the _"Donate"_ button below:
+### Donate via PayPal
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
-">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
+
+[![Donate to Glazy via Paypal!](/img/support/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
+
+## Costs
+
+Being experimental in nature with a high loss rate, my studio practice is not profitable.  In addition, I'm spending on average 20 hours per week on Glazy and ceramics-related software projects.  Besides requiring a lot of time, Glazy and related servers cost over $200 per month.  Other projects, from video production and hosting to machine learning using expensive GPU servers, add to that bill.  For example, my most recent machine learning project cost $600 in server time.
+
+It's only with your help that I can continue working on these projects.
+
+**Example Patreon income for December 2019:**
+
+Earnings before fees $593.00
+- Payment processing fee $24.30
+- Platform fees $29.65
+- Earnings before tax $539.05
+- Taxes $ 161.72
+- Total: $ 377.34
+
+Of the $377, about $250 will go to server fees, with $127 remaining to pay for test firings, computing time, etc.
+
+## Badges
+
+### Patreon Patron Badge
+
+Patrons of Glazy have a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.
+
+<img src="/img/support/badge_patron.png" alt="Glazy Patron Badge" />
+
+### Alchemist Badge
+
+In order to show appreciation for ALL contributors, the Alchemist badge was added.  This badge is shown when a user has uploaded 20 or more photos to Glazy.  Photos are essential to understanding what a recipe looks like, as well as to compare differences between materials, preparation, and firing types.  
+
+<img src="/img/support/badge_alchemist.jpg" alt="Glazy Alchemist Badge" />
+
 
 ## Patreon Sponsors
 
-
-[![Ceramic Materials ​Workshop](/img/logo-cmw.jpg)](https://www.ceramicmaterialsworkshop.com/online-classes.html)
+[![Ceramic Materials ​Workshop](/img/support/logo-cmw.jpg)](https://www.ceramicmaterialsworkshop.com/online-classes.html)
 
 [Ceramic Materials Workshop](https://www.ceramicmaterialsworkshop.com/online-classes.html)
 
@@ -59,7 +76,7 @@ the skills of clay and glaze performance helps every ceramicists,
 become their best self in the studio. Ceramicists at all levels 
 can now learn how Clay and Glazes function, online."
 
-[![Might Mud Mixer](/img/logo_mighty_color.png)](https://mightymudmixer.com/)
+[![Might Mud Mixer](/img/support/logo_mighty_color.png)](https://mightymudmixer.com/)
 
 [Might Mud Mixer](https://mightymudmixer.com/)
 
@@ -67,41 +84,8 @@ Found a beautiful glaze on Glazy but don't have the materials or space to mix th
 Might Mud Mixer will mix up the glaze and ship it to you!  Or you can order one of Mighty Mud Mixer's
 beatiful, tested, and reliable glaze recipes.  Just visit <a href="https://mightymudmixer.com/">https://mightymudmixer.com</a> today!
 
-## Server Costs
+[![Gasworks](/img/support/logo-gasworks.png)](https://gasworksnyc.com)
 
-As Glazy has grown, so have costs for web hosting.  
-Starting from a simple shared server in 2015, 
-Glazy now lives on a very fast server and has 
-a weekly backup server as well as backups to Amazon Web Services.
+[Gasworks NYC](https://gasworksnyc.com)
 
-On average, the total monthly cost of Glazy is:
-  * **$65 USD**: web, database, and backup servers
-  * **$15 USD**: caching server
-
-Additional yearly fees:
-  * **$15 USD**: glazy.org domain registration
-  * **$89 USD**: annual license for software used to develop Glazy
-
-So the approximate total yearly cost for Glazy's 
-servers and yearly fees is **$1064 USD**.
-
-_Note that these fees do not include periodic purchases of supporting 
-software licenses & hardware needed to develop the Glazy software, 
-nor the large amount of time required to write and maintain the software._
-
-## Past Support (One-time Donations)
-
-#### 2018
-
-To date (October 2018), received 33 donations for a total of
-**$992.54 USD** after Paypal fees.
-
-#### 2017
-
-Received 29 donations for a total of
-**$723.69 USD** after Paypal fees.
-
-#### 2016
-
-Received 25 donations for a total of
-**$787.86 USD** after Paypal fees.
+In addition to their exciting lineup of classes, workshops, and other events, Gasworks NYC has been releasing a steady stream of beautiful ceramics tests on their Instagram account.  They've also released a number of studio glazes on their Glazy page, https://glazy.org/u/gasworksnyc  

@@ -1,5 +1,4 @@
 module.exports = {
-  // base: '/glazypress/',
   locales: {
     '/': {
       lang: 'en-US',
@@ -19,10 +18,12 @@ module.exports = {
   ],
   serviceWorker: true,
   themeConfig: {
+    logo: '/img/logo.png',
+    smoothScroll: true,
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
-      { text: 'Contact', link: '/about/#contacting-glazy' },
+      { text: 'Guide', link: '/guide/' },
       { text: 'Donate', link: '/support#how-to-support-glazy' },
       { text: 'Glazy.org', link: 'https://glazy.org' },
     ],
@@ -40,24 +41,32 @@ module.exports = {
         collapsible: true,
         children: [
           '/about/',
-          '/about/releases',
           '/about/health-warning',
           '/about/privacy',
           '/about/terms-of-service'
         ]
       },
       {
-        title: 'Video Tutorials',
-        collapsible: false,
+        title: 'Guide',
+        collapsible: true,
         children: [
-          'tutorials'
+          '/guide/',
+          '/guide/materials/',
+          '/guide/inventory/',
+          '/guide/recipes/',
+          '/guide/recipes/searching',
+          '/guide/calculator/',
+          '/guide/posts/'
         ]
       },
       {
-        title: 'Ceramics Concepts',
+        title: 'Concepts',
         collapsible: true,
         children: [
           '/concepts/analysis/',
+          '/concepts/analysis/percent',
+          '/concepts/analysis/formula',
+          '/concepts/analysis/umf',
           '/concepts/calculation/',
           '/concepts/firing/',
           '/concepts/temperature/',
@@ -65,24 +74,18 @@ module.exports = {
         ]
       },
       {
-        title: 'Glazy Guide',
-        collapsible: true,
-        children: [
-          '/guide/',
-          '/guide/oxides/',
-          '/guide/materials/',
-          '/guide/inventory/',
-          '/guide/calculator/',
-          '/guide/recipes/',
-          '/guide/recipes/searching'
-        ]
-      },
-      {
-        title: 'Testing Recipes',
+        title: 'Testing',
         collapsible: true,
         children: [
           '/testing/mixing-tests/',
           '/testing/blending/'
+        ]
+      },
+      {
+        title: 'Videos',
+        collapsible: false,
+        children: [
+          'tutorials'
         ]
       },
       {
