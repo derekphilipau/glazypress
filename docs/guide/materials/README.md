@@ -191,6 +191,12 @@ When adding new materials to Glazy, it is advisable to specify a Parent Material
 For example most Potassium Feldspars, the parent should be "Potash Feldspar" (owned by the Glazy Admin).
 If adding EPK, SSP, or Helmar Kaolin, the parent should be "Kaolin".
 
+### Parent & Siblings
+
+In the Material page you will see a *Parent Material* listed along with any *Sibling Materials*.  Sibling Materials are simply materials that have the same *Parent* as the current Material.  In the case below, Custer Feldspar's *Parent* is Potash Feldspar, and its *Siblings* include other Potash Feldspars like Mahavir Potash Feldspar.
+
+![Parent & Sibling Materials](./img/siblings.png)
+
 ### Status
 
 There are currently only three status levels:
@@ -212,4 +218,4 @@ help guide them.
 
 You can easily add your own materials to Glazy:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dj8391mN6VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Dj8391mN6VA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -53,7 +53,7 @@ _Note: All recipes are measured by weight, not volume!_
 
 Learn how to bookmark, print, export, and make batches of recipes:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q8-thIhLdBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/q8-thIhLdBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Batches
 
@@ -176,7 +176,7 @@ Overlayed on top of the UMF Chart is the [http://localhost:8080/concepts/limits/
 
 This video shows the basics of how to use the Stull Chart:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_cxbwkdYPYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/_cxbwkdYPYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### R2O:RO Ratio
 
@@ -226,7 +226,7 @@ Just click the "Allow Zoom" button to start zooming.
 
 Introduction to similar recipes and analyses in Glazy:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0iWGkC7qomE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/0iWGkC7qomE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Similar Base Recipes
 
@@ -307,6 +307,8 @@ To export a recipe, simply select "Export" from the menu on the recipe page. The
 Recipe Card image can be saved on your computer or shared with others
 online. The downloaded glaze calculation software text file can be
 imported into your program.
+
+<!--- 
 
 ## Hazards
 
@@ -512,3 +514,4 @@ on Wikipedia.
   * [Ceramic Arts Daily: Respirators for Potters](http://ceramicartsdaily.org/uncategorized/respirators-for-potters/)
   * [Digitalfire: Being Realistic About Toxicity and Safety in Ceramics](https://digitalfire.com/4sight/education/being_realistic_about_toxicity_and_safety_in_ceramics_278.html)
   * [Digitalfire: Ceramic Hazards](https://digitalfire.com/4sight/hazards/index.html)
+ ---> 

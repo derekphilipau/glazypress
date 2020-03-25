@@ -1,4 +1,12 @@
-# Ceramics Web Search
+# Tools
+
+## Plaster Calculator
+
+https://plaster.glazy.org/
+
+![Plaster Calculator](./img/plaster.png)
+
+## Ceramics Web Search
 This Google search finds results in the following websites:
 <a href="http://community.ceramicartsdaily.org">Ceramic Arts Daily Forums</a>,
 <a href="http://archives.clayartarchives.com/">Clayart Archives (1996-2008)</a>, 

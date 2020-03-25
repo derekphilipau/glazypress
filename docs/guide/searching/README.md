@@ -1,12 +1,12 @@
-# Searching Recipes
+# Searching
 
-Recipe *metadata* consists of all descriptive information about a glaze such as transparency, surface type, firing temperature, and color.  Because many of the recipes in Glazy were imported from other databases, recipes may be missing such metadata.  When searching for glazes, it is best to use as few search parameters as possible in order not to "miss" a glaze.
+Recipe and Material *metadata* consists of all descriptive information such as transparency, surface type, firing temperature, and color.  Because many of the recipes and materials in Glazy were imported from other databases, they may be missing such metadata.  When searching for glazes, it is best to use as few search parameters as possible in order not to "miss" or filter out a recipe or material.
 
 ## Tutorial Video
 
 This short video describes how to search for recipes in Glazy:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HAH-7QU-TM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HAH-7QU-TM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Keyword Search
 
@@ -49,7 +49,7 @@ Alternatively, click one of the two color swatches in the search results.
 
 ![Color Swatches](./img/dominantsecondary.jpg)
 
-## Recipe Categories
+## Categories
 
 Ceramics books use numerous approaches to categorizing glazes, from color (white, black, etc.) to predominant coloring oxide (iron, cobalt, etc.) to firing temperature.
 
@@ -209,9 +209,3 @@ In Glazy, the firing ranges are:
 * **Low-fire: △022 - △3**
 * **Mid-fire: △4 - △8**
 * **High-fire: △9 - △14**
-
-## Bookmarking Recipes
-
-You can easily bookmark individual or multiple Recipes from the Search page:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lHObxACJ_N8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

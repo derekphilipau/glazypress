@@ -31,7 +31,7 @@ The “extended” UMF attempts to define roles for a broader range of oxides, f
 
 Rose Katz’s 2019 NCECA Lecture “COLORFORMS” discusses the roles of all major colorants:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWYCKFVy3qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RWYCKFVy3qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Glazy's  "Extended" UMF comes directly from Matthew & Rose Katz's Experimental UMF Calculator.  [This spreadsheet calculator can be downloaded here.](https://www.ceramicmaterialsworkshop.com/umf-calculator.html) 
 

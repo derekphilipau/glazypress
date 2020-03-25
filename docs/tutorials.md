@@ -1,5 +1,9 @@
 # Video Tutorials
 
+## Glazy Quick Tutorials Playlist
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/videoseries?list=PLkJuhYcJ0ob8oCsfsjC8TZLd7kkWla5lm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Create and Adjust Recipes on Glazy
 
 <iframe src="https://player.vimeo.com/video/317512925" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

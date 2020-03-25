@@ -30,11 +30,9 @@ module.exports = {
     sidebarDepth: 2,
     sidebar: [
       {
-        title: 'Support Glazy',
-        collapsible: false,
-        children: [
-          'support'
-        ]
+        title: 'Support',
+        path: 'support',
+        collapsible: true
       },
       {
         title: 'About',
@@ -54,7 +52,8 @@ module.exports = {
           '/guide/materials/',
           '/guide/inventory/',
           '/guide/recipes/',
-          '/guide/recipes/searching',
+          '/guide/searching/',
+          '/guide/organizing/',
           '/guide/calculator/',
           '/guide/posts/'
         ]
@@ -82,17 +81,15 @@ module.exports = {
         ]
       },
       {
-        title: 'Videos',
-        collapsible: false,
-        children: [
-          'tutorials'
-        ]
+        title: 'Tutorials',
+        path: 'tutorials',
+        collapsible: true,
       },
       {
         title: 'Tools',
         collapsible: true,
         children: [
-          '/tools/web-search'
+          '/tools/'
         ]
       }
     ]

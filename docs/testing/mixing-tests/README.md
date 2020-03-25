@@ -6,19 +6,19 @@
 
 How to mix a test batch using the Glazy batch calculator.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/srSQMO5sYWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/srSQMO5sYWo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Mixing & Sieving Batches
 
 Once you've made up a batch, how can you mix and prepare it for application?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/60s5uVsX0NI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/60s5uVsX0NI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Applying Glaze to Test Tiles
 
 Now that you've mixed and/or sieved your batch, you're ready to apply the glaze to test tiles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/63h5fviaxfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/63h5fviaxfA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Batch Sizes
 

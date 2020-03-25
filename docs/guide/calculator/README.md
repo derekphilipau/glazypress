@@ -14,7 +14,7 @@ The recipe is also automatically plotted on the Si:Al chart.
 
 This video shows how to create a recipe using the Calculator:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcN8rqt0z74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bcN8rqt0z74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why are materials missing from the calculator?
 
@@ -53,7 +53,7 @@ To begin importing recipes, just click the "Show Recipe Import" button:
 
 This video demonstrates how to import recipes in various formats:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jMLBuBtfw4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jMLBuBtfw4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Calculator Examples
 
@@ -61,16 +61,16 @@ This video demonstrates how to import recipes in various formats:
 
 How to make a glaze material substitution in Glazy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Yj32Yjp4m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8Yj32Yjp4m0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Substituting Local Materials
 
 If you want to try a recipe you find in Glazy but don't have all the materials, you may be able to substitute local materials instead.  This video will show you how.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FJQZSgZqK_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FJQZSgZqK_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Material Substitution 2
 
 Another example of how to substitute glaze recipe materials in Glazy.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mbsF-NMzpHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mbsF-NMzpHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
