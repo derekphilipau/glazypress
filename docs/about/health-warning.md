@@ -28,6 +28,6 @@ There are a number of glaze books and classes that can teach you guidelines and 
 
 [Two Tests to Determine if Your Glaze is a Food Safe Ceramic Glaze](https://ceramicartsnetwork.org/daily/ceramic-glaze-recipes/glaze-chemistry/two-tests-to-determine-if-your-glaze-is-a-food-safe-ceramic-glaze/) by Gabriel Kline
 
-[Are Your Glazes Food Safe or are They Leachable?](https://digitalfire.com/4sight/education/are_your_glazes_food_safe_or_are_they_leachable_12.html)
+[Are Your Glazes Food Safe or are They Leachable?](https://digitalfire.com/4sight/education/are_your_glazes_food_safe_or_are_they_leachable_12.html) by Tony Hansen
 
-[Food Safe](https://digitalfire.com/4sight/glossary/glossary_food_safe.html)
+[Food Safe](https://digitalfire.com/4sight/glossary/glossary_food_safe.html) by Tony Hansen
