@@ -40,6 +40,7 @@ module.exports = {
         children: [
           '/about/',
           '/about/health-warning',
+          '/about/health-carty',
           '/about/privacy',
           '/about/terms-of-service'
         ]
