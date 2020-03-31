@@ -40,4 +40,4 @@ There are a number of glaze books and classes that can teach you guidelines and 
 
 [Safety and Hazards in Ceramics](https://sites.google.com/site/meeneecat/educational-materials/safety-and-hazards-in-ceramics-princetonehs) from Princeton University Environmental Health and Safety
 
-[Tech pages](http://tech.tim-thornton.com/) by Tim Thornton
+[Technical information for potters](https://tim-thornton.com/tikiwiki/) by Tim Thornton
