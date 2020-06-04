@@ -63,7 +63,7 @@ of the outlying 100% blends, you could remove them from the
 test. However, each firing is different and it's usually 
 good to test the 100% blends regardless.
 
-<img src="./img/line.png" title="A line blend of two colors by opacity.">
+<img src="./img/LineBlendRoundedColor_10_TRUE_landscape_2020.svg" title="A line blend of two colors by opacity.">
 
 You could mix each test in a line blend individually, but 
 a much less time-consuming method is to only make the left 
@@ -81,7 +81,8 @@ thoroughly. Third, add water to each glaze so that their
 volumes are equal. Now the two glazes are ready for 
 blending.
 
-<img src="./img/volumetric.png" title="Preparing glazes for volumetric blending.">
+<img src="./img/syringe_materialweight2_2020.svg" title="Preparing glazes for volumetric blending.">
+
 
 ## Volumetric Blending in a Syringe
 
@@ -90,7 +91,7 @@ If your test tiles are relatively small (7cm square) and
 flat, 20ml of solution should be enough for two coats of 
 dipped glaze.
 
-<img src="./img/syringepercent.png" title="Blending glazes in a syringe.">
+<img src="./img/syringe_lineblend_steps_2020.svg" title="Blending glazes in a syringe.">
 
 As you can see, for 10% increments using a 20ml syringe we 
 need at least 20+18+16+14+12+10+8+6+4+2 = 110ml of each 100% 
