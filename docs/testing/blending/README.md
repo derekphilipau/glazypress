@@ -1,5 +1,48 @@
 # Blend Testing
 
+## Blending Basics
+
+"Volumetric Blending" sounds fancy, but it's actually a very simple concept that can be applied to any type of recipe or ingredient.
+
+For example, say we have a recipe for a Smoothie:  100g of fruit plus water:
+
+<img src="./img/1.svg" title="Making a banana smoothie." style="max-width: 600px;">
+
+We can use any type of fruit to make a smoothie, like bananas and strawberries:
+
+<img src="./img/2.svg" title="Types of smoothies." style="max-width: 600px;">
+
+Once we have two smoothies, we can blend equal volumes of each to create a combination,
+in this case Strawberry & Banana.  This is known as a <em>Line Blend</em>.
+
+<img src="./img/3.svg" title="Simplest Line Blend." style="max-width: 600px;">
+
+We can expand the <em>Line Blend</em> to have as many steps as we like.
+
+<img src="./img/4.svg" title="A longer line blend." style="max-width: 600px;">
+
+A line blend only allows us to mix two recipes.  We can mix three recipes by using a <em>triaxial</em>.
+In the following triaxial we test blends of banana, strawberry, and pear smoothies:
+
+<img src="./img/5.svg" title="A triaxial blend." style="max-width: 600px;">
+
+The edges of a triaxial are simply line blends.
+For more interesting results, we can expand the triaxial.  
+In an expanded triaxial, the inner tests blend all three recipes.
+In the following triaxial, the inner three tests blend banana, strawberry, and pear smoothies:
+
+<img src="./img/6.svg" title="Enlarged triaxial." style="max-width: 600px;">
+
+We can blend four different recipes in a <em>biaxial</em>.  In the following biaxial we blend banana, strawberry, pear, and plum smoothies.  Note that the inner test is a blend of all four smoothies:
+
+<img src="./img/7.svg" title="Simple biaxial blend." style="max-width: 600px;">
+
+As with the enlarged triaxial, we can test blends of all four recipes by enlarging the biaxial.  In this example, we only need to mix four smoothies (the corners) in order to create twenty-five varieties of smoothies:
+
+<img src="./img/8.svg" title="Larger biaxial blend." style="max-width: 600px;">
+
+## Blends in Ceramics
+
 ## Line Blends
 
 Line blends are a useful tool for comparing two different 

@@ -78,7 +78,8 @@ module.exports = {
         collapsible: true,
         children: [
           '/testing/mixing-tests/',
-          '/testing/blending/'
+          '/testing/blending/',
+          '/testing/triaxials/'
         ]
       },
       {
