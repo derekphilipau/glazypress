@@ -53,9 +53,9 @@ module.exports = {
           '/guide/materials/',
           '/guide/inventory/',
           '/guide/recipes/',
+          '/guide/calculator/',
           '/guide/searching/',
           '/guide/organizing/',
-          '/guide/calculator/',
           '/guide/posts/'
         ]
       },

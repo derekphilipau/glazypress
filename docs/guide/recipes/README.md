@@ -55,6 +55,10 @@ Learn how to bookmark, print, export, and make batches of recipes:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/q8-thIhLdBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Create a Recipe
+
+Please see the [Calculator section](/guide/calculator/)
+
 ## Batches
 
 **batch**, _noun_
