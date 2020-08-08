@@ -578,13 +578,3 @@ UMF Unity oxides in various software programs:
 </table>
 
 https://youtu.be/HyLjAg1_8_4
-
-## Glaze Limits
-
-## Stull
-
-### Stull Al/Si chart showing Leach 4321 analysis using different feldspars.
-
-The following Stull chart shows the _Leach 4321_ recipe with different feldspar and kaolin analyses. 
-
-![LeachAnalysesMaterialsStull](./img/feldspars_charted.png)

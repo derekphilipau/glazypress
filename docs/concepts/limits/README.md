@@ -1,37 +1,4 @@
-# Stull Charts and Limit Formulas
-
-## Stull Charts
-
-### Original Stull Chart
-
-![Original Stull Chart](./img/STULL_Chart_orig.jpg)
-
-The Glazy Stull Chart overlay was inspired by the work of R.T. Stull and
-Matt Katz. Note: The Stull chart was created for glazes with a flux
-ratio 0.3 R2O: 0.7 RO and fired to cone 11. There may be variations in
-the chart for glazes with different flux ratios fired at different
-temperatures.
-
-For more information, see R.T. Stull's original article in 
-[Transactions of the American Ceramic Society, Volume 14, pages 62-70](https://books.google.com/books?id=9qwYAQAAIAAJ).
-
-Also see Matt Katz's
-[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm), 
-[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf) 
-and [How Glazes Melt](http://mattanddavesclays.com/Science/Finkelnburg-NCECA%202012-PDF.pdf).
-
-## R2O:RO Ratio
-
-The ratio of R2O to RO oxides has implications for glaze stability and
-expansion.
-
-Matt Katz has demonstrated that a 0.3 R2O: 0.7 RO ratio produces the
-most robust glazes at a range of temperatures.
-
-Also see Matt Katz's
-[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm), 
-[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf) 
-and [How Glazes Melt](http://mattanddavesclays.com/Science/Finkelnburg-NCECA%202012-PDF.pdf).
+# Limit Formulas
 
 ## Glaze Limit Formulas
 

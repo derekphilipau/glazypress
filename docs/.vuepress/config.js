@@ -59,6 +59,16 @@ module.exports = {
           '/guide/posts/'
         ]
       },
+      /*
+      {
+        title: 'Recipe Types',
+        collapsible: true,
+        children: [
+          '/types/glazes/clear/',
+          '/types/glazes/red/'
+        ]
+      },
+      */
       {
         title: 'Concepts',
         collapsible: true,

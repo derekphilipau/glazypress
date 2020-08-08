@@ -167,24 +167,71 @@ For example, many traditional Chinese materials are tied to specific mine and ki
 
 #### See Also: [Unity Molecular Formula (UMF)](/concepts/analysis/#unity-molecular-formula-umf)
 
-Each Recipe page contains a Unity Molecular Formula (UMF) Chart.
+Each Glazy Search and Recipe page contains a Unity Molecular Formula (UMF) Chart.
 This chart shows the recipes closest to the current recipe.
 The current recipe is represented by a star symbol, while neighboring 
 recipes are represented by a circle.
 
 ![The UMF Chart](./img/glazy_stull_chart_ui.png)
 
+The UMF Chart defaults to a Silica (x-axis) and Alumina (y-axis) chart, 
+which is the most commonly used type of chart when looking at glaze chemistry.  But you can
+easily change the two axes to any combination of oxides.
+
 ### The Stull Chart 
 
-Overlayed on top of the UMF Chart is the [http://localhost:8080/concepts/limits/#stull-charts](Stull Chart).
+Overlayed on top of the UMF Chart is the Stull Chart.
+Here is the original Stull Chart, first published by R. T. Stull in
+[Transactions of the American Ceramic Society, Volume 14, pages 62-70](https://books.google.com/books?id=9qwYAQAAIAAJ).
 
-This video shows the basics of how to use the Stull Chart:
+![Original Stull Chart](./img/STULL_Chart_orig.jpg)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/_cxbwkdYPYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is a slightly updated version of the Stull Chart which is a little more readable:
+
+![Updated Stull Chart](./img/STULL_Chart_updated.jpg)
+
+The Stull Chart has six regions:
+* **Unfused & Under-fired**:  Glazes in this region have either too much Alumina (Unfused) 
+or too much Silica (Under-fired) are not fired to maturity.
+* **Matte**: Glazes in this high-Alumina region are typically "true" matte glazes.
+* **Bright**: In this middle-region, glazes are typically glossy glazes.
+Most of the recipes in Glazy, especially clear glazes, can be found in the Bright region.
+* **Crazed**: Glazes in this region tend to have a crazed surface.
+
+#### Caveats
+
+* The Stull chart was created for glazes with a flux ratio 0.3 R2O: 0.7 RO and fired to cone 11.
+There may be variations in the chart for glazes with different flux ratios fired at different
+temperatures.
+* The Stull chart does **not** show or predict firing temperature.  So, just because a recipe point
+lies in the "Bright" region does not mean it will be a glossy glaze at your firing temperature.
+* Because **crazing** is a function of both the glaze and clay body, the Stull Crazing Region is 
+highly dependent upon not only the glaze chemistry but also that of the clay body.  So the 
+Crazing Region will be quite different depending upon these factors.
+* *In spite of all these limitations*, the Stull Chart Regions of Unfused & Under-fired, Matte, 
+Semi-matte, and Bright still hold true at a number of different temperatures with a range of 
+flux ratios and flux types.  For futher information about how to apply the Stull Chart, please see 
+the work of Matt Katz (some articles linked below).
+
+Some of Matt Katz's research of the Stull:
+[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm), 
+[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf) 
+and [How Glazes Melt](http://mattanddavesclays.com/Science/Finkelnburg-NCECA%202012-PDF.pdf).
+
+
+### Glazy Stull Chart
+
+Due to space limitations in the website, the Glazy Stull Chart looks slightly different than the above chart, 
+lacking the region names and color codings, but otherwise is the same.
+Each point on the chart represents a recipe.
+In this example you can see that most of the recipes fall within the Stull "Bright" region.
+
+![Glazy Stull Chart](./img/glazy_stull.jpg)
+
+Each point representing a recipe has two color codings.  The inner color of the point represents the **R2O:RO Ratio**, 
+while the point outline represents the amount of **Boron**.
 
 ### R2O:RO Ratio
-
-#### See Also: [R2O:RO Ratio](/concepts/limits/#r2o-ro-ratio)
 
 ![R2O:RO Ratio](./img/ror2oscale.png) 
 
@@ -193,6 +240,53 @@ _The R2O:RO Ratio Scale shown in the Stull Chart._
 The color of each recipe point denotes its R<sub>2</sub>O:RO ratio.
 Recipes high in R<sub>2</sub>O are redder, while recipes low in
 R<sub>2</sub>O are bluer.
+
+The ratio of R2O to RO oxides has implications for glaze stability and
+expansion.
+
+Matt Katz has demonstrated that a 0.3 R2O: 0.7 RO ratio produces the
+most robust glazes at a range of temperatures.
+
+Also see Matt Katz's
+[Introduction to Glaze Formulation Online](http://art.alfred.edu/academics/glaze-formulation.cfm), 
+[Robust Mid-Temperature Glazes](http://mattanddavesclays.com/Science/Katz-NCECA%202012-PDF.pdf) 
+and [How Glazes Melt](http://mattanddavesclays.com/Science/Finkelnburg-NCECA%202012-PDF.pdf).
+
+### Boron Level
+
+The outline of each recipe point represents the amount of boron.
+Recipes containing boron have an orange outline, 
+and the thickness of the outline represents the amount of boron.
+Typically, glazes lower in temperature will contain more boron.
+
+![Boron Scale](./img/UMFChartBoron2.png) 
+
+### UMF Chart Trends
+
+The following charts show all public Glazy recipes for Low-Fire, Mid-Fire, and High-Fire.
+Three trends stand out:
+* The vast majority of recipes fall within the Stull "Bright" region.
+* As recipes increase in temperature, so do their Silica and Alumina levels 
+(points are located higher in the chart).
+* As recipes decrease in temperature, Boron increases (orange outline thickens).
+
+![Low, Mid, and High fire recipes](./img/stull_boron.jpg) 
+
+### Stull Al/Si chart showing Leach 4321 analysis using different feldspars.
+
+The following Stull chart shows the _Leach 4321_ recipe with different feldspar and kaolin analyses.
+You can see that by varying the types of ingredients (or the analyses of ingredients),
+the recipe will fall at different locations on the Stull Chart.  It's good practice to use
+actual ingredients with the most accurate analyses possible,
+for example using "Custer Feldspar" instead of the generic "Potash Feldspar" or "Feldspar".
+
+![LeachAnalysesMaterialsStull](./img/feldspars_charted.png)
+
+### Using the Glazy Stull Chart
+
+This video shows the basics of how to use the Stull Chart in Glazy:
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/_cxbwkdYPYs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Filtering the Chart
 
