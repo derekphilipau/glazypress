@@ -39,6 +39,7 @@ module.exports = {
         collapsible: true,
         children: [
           '/about/',
+          '/about/changelog',
           '/about/health-warning',
           '/about/health-carty',
           '/about/privacy',
