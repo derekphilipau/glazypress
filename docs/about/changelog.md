@@ -5,62 +5,62 @@ It does not list bug fixes, minor updates, or software upgrades.
 
 ## 2020
 
-### August
+#### August
 * Revise calculation engine
 
-### July
+#### July
 * Simplify calculator
 * Calculated Thermal Expansion
 * Estimate kiln firing finish time
 
-### June
+#### June
 * Inventory import
 * "Combined Alumina" in Extended UMF
 
-### May
+#### May
 * Specific Gravity
 
-### April
+#### April
 * Dark Mode
 * Software updates, Laravel 7
 
-### March
+#### March
 * New Help site
 * New Oxide color scheme
 * Analysis table view with oxide sort
 * "Water added" field
 
-### February
+#### February
 * Kiln Schedules
 * New Post Types
 
-### January
+#### January
 * Posts
 
 ## 2019
 
-### December
+#### December
 * Posts
 * Patreon & Paypal "Patrons"
 * Meta tags
 * Amazon S3 integration
 
-### November
+#### November
 * Posts
 
-### October
+#### October
 * Threaded comments
 * Multiple select Recipes/materials over multiple pages
 * First release of Posts
 
-### September
+#### September
 * New Comments component
 
-### August
+#### August
 * Markdown
 * Multilingual additions
 
-### July
+#### July
 * New Glazy Homepage
 * Ability to switch analysis type in search
 * Drag & drop file upload
@@ -69,99 +69,106 @@ It does not list bug fixes, minor updates, or software upgrades.
 * "My Reviews"
 * Laravel update, JSON Resources
 
-### June
+#### June
 * New sort options
 * Remove social logins (Google, Facebook)
 * Extended UMF in recipe cards
 * Update Stull Charts
 * Creative Commons license update
 
-### May
+#### May
 
-### April
+#### April
 * Extended UMF
 * User search preferences
 * Multilingual translations
 
-### March
+#### March
 * Multilingual translations
 * Child materials
 * Batch costs/pricing
 
-### February
-### January
+#### February
+* Updated Print labels
+
+#### January
+* Edit info form update, add to bookmark folder
+* CSV export
 
 ## 2018
 
-### December
-### November
-### October
-### September
-### August
-### July
-### June
-### May
-### April
-### March
-### February
-### January
+#### December
+* Keyword search improvents
+* New notification component
+* Delete materials from recipe in Calculator
 
-## 2017
+#### November
+* Batch material summaries in Print
+* Print multiple recipes
+* Print function
+* Update Similar Base Recipes view
+* "Production" state
+* Ability to add inventory materials within Calculator
 
-### December
-### November
-### October
-### September
-### August
-### July
-### June
-### May
-### April
-### March
-### February
-### January
+#### October
+* Ability to edit multiple recipes within Calculator
 
-## 2016
+#### September
+* European float formats
 
-### December
-### November
-### October
-### September
-### August
-### July
-### June
-### May
-### April
-### March
-### February
-### January
+#### August
+* Forgot password
 
-## 2015
+#### July
+* Photo-only search
+* Material state (test, production, discontinued)
+* Prerender
+* Recipe collections view
+* Add other names to Calculator materials
+* Batch calculator refinements
+* Number increment/decrement in Calculator
+* Image gallery next/prev buttons
+* Bootstrap upgrade
+* Tare weight in Batch Calculator
 
-### December
-### November
-### October
-### September
-### August
-### July
-### June
-### May
-### April
-### March
-### February
-### January
+#### June
+* Bookmark multiple
+* Multi-select recipes/materials
+* Use Mole % for analyses comparisons
+* Add oxide weight & calculated weight for materials
+* Traditional UMF formatting
+* Oxide coloring
 
-## 2014
+#### May
+* GDPR Compliance, anonymize IP addresses, Accept terms of service
+* Review & Comment notifications
+* Allow upload of user Avatar image
+* Search by user name
+* Basic notifications
+* Material comments
+* Stull Charts update
+* Digitalfire Insight import/export update
 
-### December
-### November
-### October
-### September
-### August
-### July
-### June
-### May
-### April
-### March
-### February
-### January
+#### April
+* Progressively load images
+* Search for similar recipes without amounts
+* Show Recipe Collections
+* Facebook preview
+* Recipe export for GlazeChem
+
+#### March
+* Ability to Archive recipes
+* User uploaded Images
+* Color search, show actual image, not default
+* Search recipes by material
+* Wiki help topics
+* Ability to delete a bookmark folder
+
+#### February
+* User registration email & check
+* Material Inventory
+
+#### January
+* Star rating
+* Material other names
+* Ability to add recipes to collection from search
