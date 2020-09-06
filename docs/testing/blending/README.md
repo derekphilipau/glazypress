@@ -2,6 +2,8 @@
 
 ## Blending Basics
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ftqlsnvXTAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 "Volumetric Blending" sounds fancy, but it's actually a very simple concept that can be applied to any type of recipe or ingredient.
 
 For example, say we have a recipe for a Smoothie:  100g of fruit plus water:
@@ -44,6 +46,8 @@ As with the enlarged triaxial, we can test blends of all four recipes by enlargi
 ## Blends in Ceramics
 
 ## Line Blends
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Fv6hFPpLooA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Line blends are a useful tool for comparing two different 
 recipes. Often, the two recipes are different glazes. For 

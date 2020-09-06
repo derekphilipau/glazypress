@@ -1,5 +1,13 @@
 # Changelog
 
+## Roadmap
+
+Here you can see lists of Glazy bugs, requested features, in-progress work, and completed tasks:
+
+https://trello.com/b/eDgddvpB/glazy
+
+## Changelog
+
 Note: This abbreviated changelog only includes new feature additions to Glazy.  
 It does not list bug fixes, minor updates, or software upgrades.
 

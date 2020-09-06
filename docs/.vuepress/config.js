@@ -90,7 +90,8 @@ module.exports = {
         children: [
           '/testing/mixing-tests/',
           '/testing/blending/',
-          '/testing/triaxials/'
+          '/testing/triaxials/',
+          '/testing/blending-guides/'
         ]
       },
       {

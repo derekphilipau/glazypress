@@ -14,10 +14,6 @@ Glazy is in continuous development, guided by technical input from a number of p
 
 Glazy was built using the latest open source tools, including [Laravel](https://laravel.com/), [Vue](https://vuejs.org/),[D3](https://d3js.org/), [Bootstrap](https://getbootstrap.com/), and [bootstrap-vue](https://bootstrap-vue.js.org/).  This documentation was made using [Vuepress](https://vuepress.vuejs.org/).
 
-Glazy is released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-[Glazy Github Repository](https://github.com/derekphilipau/glazy)
-
 [Glazy Documentation Repository](https://github.com/derekphilipau/glazypress)
 
 ## Getting Help
