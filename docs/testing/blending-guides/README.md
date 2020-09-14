@@ -2,6 +2,12 @@
 
 These Volumetric Blending Guides in PDF format can be downloaded and viewed on a device or printed and displayed on the wall of your glaze lab.
 
+## Print or Download a Poster
+
+High-quality posters are available for purchase on Glazy's Etsy shop:  [https://www.etsy.com/shop/glazyorg](https://www.etsy.com/shop/glazyorg)
+
+Alternatively, you can download the PDF's below and either print them yourself or save them on your phone for handy reference.
+
 ## Triaxial Blending Guide
 
 <a href="/downloads/blending-guides/TriaxialBlendAmounts30ml_v2_COLOR_16x20_final_2020.pdf"><img src="./img/TriaxialBlendAmounts30ml_v2_COLOR_16x20_final.jpg" title="Triaxial Blending Guide"></a>
