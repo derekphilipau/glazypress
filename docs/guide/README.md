@@ -52,3 +52,9 @@ To join Glazy, all we need is an email address and name:
 You can add social media links, change your user photo, download your data, and edit settings by updating your User Profile:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/ETvsshkeaVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Dark Mode
+
+[Glazy Patrons](http://localhost:8080/support.html#glazy-patron-special-features) get access to the Dark Mode special feature.  Just click the contrast button in the top-right corner of the menu (see screenshot below) to switch Glazy between Light and Dark mode.
+
+![Dark Mode](./img/darkmode.jpg)

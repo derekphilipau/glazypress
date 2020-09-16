@@ -16,7 +16,7 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 
 ### Support Glazy on Patreon
 
-To support the continued development of Glazy, please consider becoming a patron on Patreon.  Even just $2/month (Student Tier) makes a huge difference!
+To support the continued development of Glazy, please consider becoming a patron on Patreon.  Even just $2/month (Student Tier) makes a huge difference!  Patrons get the "Patron" badge and special features listed below.
 
 To become a patron, just click here:
 
@@ -26,32 +26,13 @@ To become a patron, just click here:
 
 ### Donate via PayPal
 
-[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
+[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)  Just as with Patreon, users who pledge at least $2 per month get the "Patron" badge and special features listed below.
 
 [![Donate to Glazy via Paypal!](/img/support/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
 
-## Costs
+### Glazy Patron Special Features
 
-Being experimental in nature with a high loss rate, my studio practice is not profitable.  In addition, I'm spending on average 20 hours per week on Glazy and ceramics-related software projects.  Besides requiring a lot of time, Glazy and related servers cost over $200 per month.  Other projects, from video production and hosting to machine learning using expensive GPU servers, add to that bill.  For example, my most recent machine learning project cost $600 in server time.
-
-It's only with your help that I can continue working on these projects.
-
-**Example Patreon income for December 2019:**
-
-Earnings before fees $593.00
-- Payment processing fee $24.30
-- Platform fees $29.65
-- Earnings before tax $539.05
-- Taxes $ 161.72
-- Total: $ 377.34
-
-Of the $377, about $250 will go to server fees, with $127 remaining to pay for test firings, computing time, etc.
-
-## Badges
-
-### Patreon Patron Badge
-
-Patrons of Glazy have a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.
+Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features, including [Dark Mode](/guide/#dark-mode), **calculated thermal expansion**, **decimal places** in the Calculator, and **"Target & Solve"**.
 
 <img src="/img/support/badge_patron.png" alt="Glazy Patron Badge" />
 
@@ -60,7 +41,6 @@ Patrons of Glazy have a special "flame" badge that appears next to their usernam
 In order to show appreciation for ALL contributors, the Alchemist badge was added.  This badge is shown when a user has uploaded 20 or more photos to Glazy.  Photos are essential to understanding what a recipe looks like, as well as to compare differences between materials, preparation, and firing types.  
 
 <img src="/img/support/badge_alchemist.jpg" alt="Glazy Alchemist Badge" />
-
 
 ## Patreon Sponsors
 
