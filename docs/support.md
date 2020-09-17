@@ -24,7 +24,7 @@ To become a patron, just click here:
 <img src="/img/support/logo-patreon.png" height="72" alt="Become a Patreon Sponsor" />
 </a>
 
-### Donate via PayPal
+### Support via PayPal
 
 [To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)  Just as with Patreon, users who pledge at least $2 per month get the "Patron" badge and special features listed below.
 
@@ -44,9 +44,14 @@ In order to show appreciation for ALL contributors, the Alchemist badge was adde
 
 ## Patreon Sponsors
 
-[![Ceramic Materials ​Workshop](/img/support/logo-cmw.jpg)](https://www.ceramicmaterialsworkshop.com/online-classes.html)
+The top level of Patreon sponsorship is the Patron level at $100 USD/mo.  
 
-[Ceramic Materials Workshop](https://www.ceramicmaterialsworkshop.com/online-classes.html)
+Benefits of this level are having your company, school, or organization's logo displayed on the Glazy website footer as well as in this section of the Glazy Help site.
+
+
+### [Ceramic Materials Workshop](https://www.ceramicmaterialsworkshop.com/online-classes.html)
+
+[![Ceramic Materials ​Workshop](/img/support/logo-cmw.jpg)](https://www.ceramicmaterialsworkshop.com/online-classes.html)
 
 "Ceramic Materials ​Workshop is a place online to understand 
 and explore how and why our Clay and Glazes work (and don't work). 
@@ -56,16 +61,25 @@ the skills of clay and glaze performance helps every ceramicists,
 become their best self in the studio. Ceramicists at all levels 
 can now learn how Clay and Glazes function, online."
 
-[![Might Mud Mixer](/img/support/logo_mighty_color.png)](https://mightymudmixer.com/)
+### [Might Mud Mixer](https://mightymudmixer.com/)
 
-[Might Mud Mixer](https://mightymudmixer.com/)
+[![Might Mud Mixer](/img/support/logo_mighty_color.png)](https://mightymudmixer.com/)
 
 Found a beautiful glaze on Glazy but don't have the materials or space to mix the recipe yourself?
 Might Mud Mixer will mix up the glaze and ship it to you!  Or you can order one of Mighty Mud Mixer's
 beatiful, tested, and reliable glaze recipes.  Just visit <a href="https://mightymudmixer.com/">https://mightymudmixer.com</a> today!
 
+### [Gasworks NYC](https://gasworksnyc.com)
+
 [![Gasworks](/img/support/logo-gasworks.png)](https://gasworksnyc.com)
 
-[Gasworks NYC](https://gasworksnyc.com)
-
 In addition to their exciting lineup of classes, workshops, and other events, Gasworks NYC has been releasing a steady stream of beautiful ceramics tests on their Instagram account.  They've also released a number of studio glazes on their Glazy page, https://glazy.org/u/gasworksnyc  
+
+### [Ovo Ceramics](https://www.instagram.com/ovo_ceramics/)
+
+[![Ovo Ceramics](/img/support/logo-ovo.png)](https://www.instagram.com/ovo_ceramics/)
+
+Александр Бердин-Лазурский.
+Школа керамики.
+Гончарные инструменты #ovotools и посуда на сайте:
+[ceramicschool.ru/ovoshop](ceramicschool.ru/ovoshop)

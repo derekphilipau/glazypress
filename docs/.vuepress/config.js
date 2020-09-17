@@ -24,7 +24,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'Donate', link: '/support#how-to-support-glazy' },
+      { text: 'Support', link: '/support#how-to-support-glazy' },
       { text: 'Glazy.org', link: 'https://glazy.org' },
     ],
     sidebarDepth: 2,
