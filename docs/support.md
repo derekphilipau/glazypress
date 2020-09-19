@@ -28,11 +28,13 @@ To become a patron, just click here:
 
 [To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)  Just as with Patreon, users who pledge at least $2 per month get the "Patron" badge and special features listed below.
 
+**For one-time donations**, users will receive the Patron badge at the rate of $2 per month.  For example, if you donate $24, you will receive the Patron badge (and patron-only features) for 12 months.
+
 [![Donate to Glazy via Paypal!](/img/support/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
 
 ### Glazy Patron Special Features
 
-Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features, including [Dark Mode](/guide/#dark-mode), **calculated thermal expansion**, **decimal places** in the Calculator, and **"Target & Solve"**.
+Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features, including [Dark Mode](/guide/#dark-mode), **calculated thermal expansion**, **decimal places** in the Calculator, **"Target & Solve"**, and **Line, Triaxial and Biaxial Blends**.
 
 <img src="/img/support/badge_patron.png" alt="Glazy Patron Badge" />
 
