@@ -2,6 +2,10 @@
 
 These Volumetric Blending Guides in PDF format can be downloaded and viewed on a device or printed and displayed on the wall of your glaze lab.
 
+## How to Use these Guides
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Y_hxultE-cQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Print or Download a Poster
 
 High-quality posters are available for purchase on Glazy's Etsy shop:  [https://www.etsy.com/shop/glazyorg](https://www.etsy.com/shop/glazyorg)
