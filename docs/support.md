@@ -14,7 +14,17 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 
 **Glazy will always remain open and free.**  But the Glazy code takes many hours each month to write and maintain, as does providing support to users, creating tests, and importing new data into the database. The web servers that Glazy runs on cost more as Glazy grows.
 
-### Support Glazy on Patreon
+### Easiest Method: PayPal
+
+**To avoid the hassle of monthly contributions, just make a one-time donation.**  Users will receive the Patron badge & special features at the rate of $2 per month.  For example, if you donate $24 you will receive the Patron badge (and patron-only features) for 12 months.
+
+**Subscription donations** of at least $2 per month also get the "Patron" badge and special features listed below.
+
+[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)  
+
+[![Donate to Glazy via Paypal!](/img/support/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
+
+### Patreon
 
 To support the continued development of Glazy, please consider becoming a patron on Patreon.  Even just $2/month (Student Tier) makes a huge difference!  Patrons get the "Patron" badge and special features listed below.
 
@@ -24,17 +34,43 @@ To become a patron, just click here:
 <img src="/img/support/logo-patreon.png" height="72" alt="Become a Patreon Sponsor" />
 </a>
 
-### Support via PayPal
+## Patron Special Features
 
-[To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)  Just as with Patreon, users who pledge at least $2 per month get the "Patron" badge and special features listed below.
+Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features.
 
-**For one-time donations**, users will receive the Patron badge at the rate of $2 per month.  For example, if you donate $24, you will receive the Patron badge (and patron-only features) for 12 months.
+### Target & Solve
 
-[![Donate to Glazy via Paypal!](/img/support/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
+Just open a Recipe, Material, or Analysis in the Calculator and click the "Target" button. In the new recipe, add materials you would like to use to reformulate the target analysis, then click "Solve". Glazy will automatically calculate the new recipe for you!
 
-### Glazy Patron Special Features
+<img src="/img/support/benefits/solve.jpg" alt="Target & Solve" />
 
-Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features, including [Dark Mode](/guide/#dark-mode), **calculated thermal expansion**, **decimal places** in the Calculator, **"Target & Solve"**, and **Line, Triaxial and Biaxial Blends**.
+### Blends
+
+Patrons can easily make Line, Triaxial and Biaxial blends between 2-4 recipes.
+
+<img src="/img/support/benefits/blends.jpg" alt="Blends" />
+
+### Dark Mode
+
+By clicking the "Dark Mode" button, you can easily switch between light and dark versions of Glazy.
+
+<img src="/img/support/benefits/darkmode.jpg" alt="Dark Mode" />
+
+### Calculated Thermal Expansion
+
+For Patrons, Calculated Thermal Expansion is shown in the search, recipe, and calculator.
+
+<img src="/img/support/benefits/calculatedexpansion.jpg" alt="Calculated Thermal Expansion" />
+
+### Decimal Places
+
+Patrons can adjust the number of decimal places they use in the Calculator.  This can be very handy when working with exact substitutions in UMF.
+
+<img src="/img/support/benefits/decimal.jpg" alt="Decimal Places" />
+
+### Patron Badge 
+
+Patrons receive the "Patron" badge next to their name in Glazy.
 
 <img src="/img/support/badge_patron.png" alt="Glazy Patron Badge" />
 
