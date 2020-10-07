@@ -26,12 +26,10 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 
 ### Patreon
 
-To support the continued development of Glazy, please consider becoming a patron on Patreon.  Even just $2/month (Student Tier) makes a huge difference!  Patrons get the "Patron" badge and special features listed below.
-
-To become a patron, just click here:
+***NOTE:  As of October 2020 I'm recommending people who want to support Glazy to use the PayPal link above.  If you don't wish to use PayPal, you can still sign up by clicking the Patreon button below.  Nothing will change for Patreon Patrons, they will continue to have the same benefits as before.***
 
 <a href="https://www.patreon.com/bePatron?u=5941215">
-<img src="/img/support/logo-patreon.png" height="72" alt="Become a Patreon Sponsor" />
+<img src="/img/support/logo-patreon.png" height="36" alt="Become a Patreon Sponsor" />
 </a>
 
 ## Patron Special Features
