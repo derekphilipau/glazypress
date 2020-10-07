@@ -3,7 +3,7 @@ module.exports = {
     '/': {
       lang: 'en-US',
       title: 'Glazy Help',
-      description: 'The Free, Open-Source Ceramics Library'
+      description: 'The Free & Open Ceramics Library'
     }
   },
   head: [

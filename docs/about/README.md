@@ -18,7 +18,7 @@ Glazy was built using the latest open source tools, including [Laravel](https://
 
 ## Getting Help
 
-Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Just log into Glazy and click the "? Help" button to create a new Glazy Support Post (see screenshot below).
+Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Just log into Glazy and click the "? Help" button to create a new Glazy Help Post (see screenshot below).
 
 ![Make a Help Post](/img/screenshots/help-post.png)
 

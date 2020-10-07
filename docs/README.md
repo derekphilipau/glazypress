@@ -8,15 +8,15 @@ footer: Copyright © 2020-present Derek Au
 
 <div class="features">
   <div class="feature">
-    <h2><a href="/guide/">Glazy Guide →</a></h2> 
+    <h2><a href="/support.html#how-to-support-glazy">Become a Patron →</a></h2> 
     <p>
-      Learn how to use Glazy
+      Support Glazy and get access to special features
     </p>
   </div>
   <div class="feature">
-    <h2><a href="/concepts/analysis/">Concepts →</a></h2> 
+    <h2><a href="/guide/">Glazy Guide →</a></h2> 
     <p>
-      Learn more about ceramics concepts & chemistry
+      Learn how to use Glazy
     </p>
   </div>
   <div class="feature">
@@ -52,6 +52,6 @@ footer: Copyright © 2020-present Derek Au
 
 [You can read the Guide here.](/guide/)  
 
-If you cannot login, please email **derek [at] glazy [dot] org**.
+If you cannot login or need to delete your account, please email **derek [at] glazy [dot] org**.
 
-If you have a question about a specific recipe or material, the [Ceramics Recipes Group](https://www.facebook.com/groups/disisdkat/) on Facebook is a great place to ask.
+In Glazy, just [create a Help Post](/guide/#getting-help) and your question will be answered as soon as possible!

@@ -27,7 +27,7 @@ While Google Chrome is the only "officially" supported browser, [Safari](https:/
 
 If you cannot login, please email **derek [at] glazy [dot] org**.
 
-Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Just log into Glazy and click the "? Help" button to create a new Glazy Support Post (see screenshot below).
+Ideas for improving Glazy?  Encounter a bug?  Questions about glazes in general?  Just log into Glazy and click the "? Help" button to create a new Glazy Help Post (see screenshot below).
 
 ![Make a Help Post](/img/screenshots/help-post.png)
 
