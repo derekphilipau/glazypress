@@ -32,6 +32,10 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 <img src="/img/support/logo-patreon.png" height="36" alt="Become a Patreon Sponsor" />
 </a>
 
+### Student Patrons
+
+If you are currently a student, just send a photo of your Student ID to **derek [at] glazy [dot] org** and you will receive free Patron status for 12 months.
+
 ## Patron Special Features
 
 Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features.
