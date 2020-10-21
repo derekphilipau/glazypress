@@ -32,9 +32,9 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 <img src="/img/support/logo-patreon.png" height="36" alt="Become a Patreon Sponsor" />
 </a>
 
-### Student Patrons
+### Student & Teacher Patrons
 
-If you are currently a student, just send a photo of your Student ID to **derek [at] glazy [dot] org** and you will receive free Patron status for 12 months.
+If you are currently a student or teacher, simply register with a .edu email address and you will automatically be given 12 months of Patron status for free.  If your school doesn't use the .edu domain, just send a photo of your Student ID or other proof of enrollment to **derek [at] glazy [dot] org**.
 
 ## Patron Special Features
 
