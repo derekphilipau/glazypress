@@ -55,6 +55,7 @@ module.exports = {
           '/guide/inventory/',
           '/guide/recipes/',
           '/guide/calculator/',
+          '/guide/targetsolve/',
           '/guide/searching/',
           '/guide/organizing/',
           '/guide/posts/'

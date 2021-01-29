@@ -14,6 +14,10 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 
 **Glazy will always remain open and free.**  But the Glazy code takes many hours each month to write and maintain, as does providing support to users, creating tests, and importing new data into the database. The web servers that Glazy runs on cost more as Glazy grows.
 
+### Free for Student & Teachers
+
+If you are currently a student or teacher, simply register with a .edu email address and you will automatically be given 12 months of Patron status for free.  If your school doesn't use the .edu domain, just send a photo of your Student ID or other proof of enrollment to **derek [at] glazy [dot] org**.
+
 ### Easiest Method: PayPal
 
 **To avoid the hassle of monthly contributions, just make a one-time donation.**  Users will receive the Patron badge & special features at the rate of $2 per month.  For example, if you donate $24 you will receive the Patron badge (and patron-only features) for 12 months.
@@ -32,10 +36,6 @@ The best way to support Glazy is to use it! Uploading images of glazes, verifyin
 <img src="/img/support/logo-patreon.png" height="36" alt="Become a Patreon Sponsor" />
 </a>
 
-### Student & Teacher Patrons
-
-If you are currently a student or teacher, simply register with a .edu email address and you will automatically be given 12 months of Patron status for free.  If your school doesn't use the .edu domain, just send a photo of your Student ID or other proof of enrollment to **derek [at] glazy [dot] org**.
-
 ## Patron Special Features
 
 Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features.
@@ -43,6 +43,8 @@ Those who pledge $2 per month via *either* Patreon or PayPal receive a special "
 ### Target & Solve
 
 Just open a Recipe, Material, or Analysis in the Calculator and click the "Target" button. In the new recipe, add materials you would like to use to reformulate the target analysis, then click "Solve". Glazy will automatically calculate the new recipe for you!
+
+***[Learn more about Target & Solve here.](/guide/targetsolve)***
 
 <img src="/img/support/benefits/solve.jpg" alt="Target & Solve" />
 
