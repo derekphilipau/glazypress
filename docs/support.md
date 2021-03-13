@@ -12,15 +12,19 @@ Glazy is the only online glaze calculation software that promotes sharing recipe
 
 The best way to support Glazy is to use it! Uploading images of glazes, verifying existing recipes, and sharing your own recipes helps Glazy become a more trustworthy source of ceramics information.
 
-**Glazy will always remain open and free.**  But the Glazy code takes many hours each month to write and maintain, as does providing support to users, creating tests, and importing new data into the database. The web servers that Glazy runs on cost more as Glazy grows.
+**Glazy will always remain open and free.**  But the Glazy code takes many hours each month to write and maintain, as does providing support to users, creating tests, and importing new data into the database. The web servers that Glazy runs on cost more as Glazy grows.  Therefore I am adding some features that are "Patron-only", enabled only for those who financially contribute.  Those who contribute help to support the thousands of teachers, students, and all those unable to contribute.
 
 ### Free for Student & Teachers
 
 If you are currently a student or teacher, simply register with a .edu email address and you will automatically be given 12 months of Patron status for free.  If your school doesn't use the .edu domain, just send a photo of your Student ID or other proof of enrollment to **derek [at] glazy [dot] org**.
 
-### Easiest Method: PayPal
+### Recommended Method: PayPal
 
-**To avoid the hassle of monthly contributions, just make a one-time donation.**  Users will receive the Patron badge & special features at the rate of $2 per month.  For example, if you donate $24 you will receive the Patron badge (and patron-only features) for 12 months.
+**To avoid the hassle of monthly contributions, just make a one-time donation.**  Users will receive the Patron badge & special features at the rate of $2 per month.
+
+For example:
+* One-time $2 contribution for 1 month of Patron status
+* One-time $24 contribution for 12 months of Patron status
 
 **Subscription donations** of at least $2 per month also get the "Patron" badge and special features listed below.
 
@@ -28,7 +32,7 @@ If you are currently a student or teacher, simply register with a .edu email add
 
 [![Donate to Glazy via Paypal!](/img/support/paypal.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url) 
 
-### Patreon
+### Patreon (Not Recommended)
 
 ***NOTE:  As of October 2020 I'm recommending people who want to support Glazy to use the PayPal link above.  If you don't wish to use PayPal, you can still sign up by clicking the Patreon button below.  Nothing will change for Patreon Patrons, they will continue to have the same benefits as before.***
 
@@ -36,7 +40,7 @@ If you are currently a student or teacher, simply register with a .edu email add
 <img src="/img/support/logo-patreon.png" height="36" alt="Become a Patreon Sponsor" />
 </a>
 
-## Patron Special Features
+## Glazy Patron Special Features
 
 Those who pledge $2 per month via *either* Patreon or PayPal receive a special "flame" badge that appears next to their username in Glazy.  Whether you donate $100 or $2 a month, every patron gets the same badge.  This badge unlocks some special Glazy features.
 
@@ -71,6 +75,12 @@ For Patrons, Calculated Thermal Expansion is shown in the search, recipe, and ca
 Patrons can adjust the number of decimal places they use in the Calculator.  This can be very handy when working with exact substitutions in UMF.
 
 <img src="/img/support/benefits/decimal.jpg" alt="Decimal Places" />
+
+### Limits
+
+Various glaze limits can be layered on top of the Glazy Calculator Chart.
+
+<img src="/img/support/benefits/limits.jpg" alt="Limits" />
 
 ### Patron Badge 
 
