@@ -100,19 +100,6 @@ The top level of Patreon sponsorship is the Patron level at $100 USD/mo.
 
 Benefits of this level are having your company, school, or organization's logo displayed on the Glazy website footer as well as in this section of the Glazy Help site.
 
-
-### [Ceramic Materials Workshop](https://www.ceramicmaterialsworkshop.com/online-classes.html)
-
-[![Ceramic Materials ​Workshop](/img/support/logo-cmw.jpg)](https://www.ceramicmaterialsworkshop.com/online-classes.html)
-
-"Ceramic Materials ​Workshop is a place online to understand 
-and explore how and why our Clay and Glazes work (and don't work). 
-Our materials speak for us in the kitchen and gallery, it benefits 
-us to learn about how to speak through our materials. Mastering 
-the skills of clay and glaze performance helps every ceramicists, 
-become their best self in the studio. Ceramicists at all levels 
-can now learn how Clay and Glazes function, online."
-
 ### [Might Mud Mixer](https://mightymudmixer.com/)
 
 [![Might Mud Mixer](/img/support/logo_mighty_color.png)](https://mightymudmixer.com/)
