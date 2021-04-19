@@ -27,6 +27,7 @@ For example:
 * One-time $24 contribution for 12 months of Patron status
 
 **Subscription donations** of at least $2 per month also get the "Patron" badge and special features listed below.
+*NOTE: Please allow 24 hours for your Glazy Patron status to be updated.*
 
 [To make a one-time or recurring donation to Glazy using Paypal, click here or on the _"Donate"_ button below.](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=VN8HBLPQG6N3E&currency_code=USD&source=url)  
 
