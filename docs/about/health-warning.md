@@ -20,6 +20,8 @@ Toxicity and food safety is a complicated issue that depends upon a number of fa
 
 If you are making functional ware, it is your responsibility to educate yourself as much as possible and to ensure that you do not harm your customers.
 
+***The best way to avoid issues of glaze toxicity and leaching is to use a "liner" glaze.  A liner glaze is a clear or white glaze applied to all areas of food contact (for example the inside & lip of bowls, cups, and plates).***
+
 There are a number of glaze books and classes that can teach you guidelines and ways to test for toxicity.  Listed below are a few online articles:
 
 [Copper Leaching and Glaze Durability ](https://www.ceramicmaterialsworkshop.com/uploads/5/9/1/2/59124729/031218-peter_berg-final_draft.pdf) by Peter Berg and Matt Katz
