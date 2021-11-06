@@ -79,6 +79,7 @@ module.exports = {
           '/concepts/analysis/percent',
           '/concepts/analysis/formula',
           '/concepts/analysis/umf',
+          '/concepts/analysis/cte',
           '/concepts/calculation/',
           '/concepts/firing/',
           '/concepts/temperature/',
